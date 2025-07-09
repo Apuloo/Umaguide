@@ -1,0 +1,2455 @@
+[
+  {
+  "name": "Daiwa Scarlet",
+  "imageUrl": "https://i.imgur.com/ncLnPrb.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "G+ (84/1200)",
+    "Stamina": "G+ (77/1200)",
+    "Power": "G+ (79/1200)",
+    "Guts": "G+ (95/1200)",
+    "Wit": "G+ (90/1200)"
+  },
+ "skills": [
+  "Red Ace – Daiwa Scarlet's unique skill. Activates only when she's in 1st place during the final leg, giving a strong speed burst...",
+  "Competitive Spirit – Provides a small acceleration boost when running near other rivals...",
+  "Stamina to Spare – Activates if stamina drops below a certain point in mid or late race...",
+  "Preferred Position – Activates when she maintains her favored racing position (Front)...",
+  "Up Tempo – Small speed boost during the early-middle phase...",
+  
+  "Escape Artist – Slightly increases positioning ability when leading mid-race. Helps Scarlet stay in the lead more consistently and avoid lane drift. Works best on Tokyo or Kyoto tracks with long straights.",
+  
+  "Corner Speed ○ – Slightly boosts speed while cornering. Lets Scarlet maintain tempo around tight tracks like Nakayama without losing precious lead time.",
+  
+  "Leader's Pride – Slightly reduces the chance of being passed early in the race. Helps reinforce her dominance in the first half, especially when facing heavy Front-style rivals.",
+  
+  "Front Runner Corners ◎ – Moderately boosts cornering performance for Front runners. Stacks beautifully with “Corner Speed ○” and supports Scarlet's tempo retention into the final stretch."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "A",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "A",
+    "Late": "E",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "10%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "10%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed — Front runners live or die by Speed. Without it, skills like Red Ace can't activate. Max this stat as much as possible, especially for Mile/Medium distances.",
+      "Power — Critical in corners and congested areas. Helps her accelerate and muscle through position fights, especially if other Front runners are present. 500+ is a strong benchmark.",
+      "Stamina — If Scarlet burns out halfway, her build crumbles. She needs enough stamina to sustain through Medium and Long courses. Aim for 350–400+, higher if not using healing support cards.",
+      "Wit — Influences skill trigger consistency and race intelligence (positioning and recovery). 400+ ensures smoother pacing and higher reliability in tough scenarios.",
+      "Guts — Only useful in rare finish-line clutch plays. Not essential for Scarlet’s win condition. Better left under-prioritized unless experimenting with underdog builds."
+    ],
+    "supportCards": [
+      "4x Speed Cards: Narita Brian and Kitasan Black are ideal for fast stat growth, recovery events, and friendly training overlap.",
+      "1x Stamina Card: Super Creek provides strong stamina growth and useful recovery skills.",
+      "1x Wit Card: Fine Motion adds reliability through mental stat growth, activation boosts, and energy management."
+    ],
+    "legacyRecommendations": [
+      "Maruzenski - Excellent early burst inheritance. Helps Scarlet launch even faster.",
+      "Seiun Sky - Great synergy with front-style skill chains. Provides a backup lead source.",
+      "Mejiro McQueen - Adds stability on longer courses where stamina is taxed.",
+      "Avoid End/Late-style characters - These do not support Scarlet’s early lead approach and may introduce conflicting strategies in inheritance."
+    ],
+    "strategyTips": [
+      "Push Speed training as priority every week unless rare bonus aligns elsewhere.",
+      "Use Wit drills instead of Rest to preserve energy while growing stats and skill reliability.",
+      "Front Runner and Speed Star should be among the first selected skills during development — both contribute directly to race outcomes.",
+      "Avoid Sprint races. Prioritize Medium races where she can maximize tempo and skill uptime."
+    ],
+    "scenarioTips": [
+      "Mile Races: Reduce stamina to ~300 and funnel additional points into Speed and Power. She can win cleanly if recovery skills compensate.",
+      "Medium Races: Balanced builds excel here. Skills activate at ideal phases; stamina needs to be stabilized with support cards or healing.",
+      "Rainy Weather: Wet tracks hinder skill activation. Use high-Wit supports to counter low reliability and prevent pacing errors.",
+      "Turf Tracks Only: Scarlet cannot perform on dirt. Ensure your race selection avoids dirt courses, and don't waste card slots on dirt buffs."
+    ],
+    "summary": "- Push Speed above all for tempo control\n- Power keeps her competitive in corner fights\n- Stamina must support race length and style\n- Skill synergy rewards early dominance\n- Only build her for Medium/Mile turf races\n- Avoid Sprint/Dirt/End-style inheritances"
+  }
+},
+
+  {
+  "name": "Tokai Teio",
+  "imageUrl": "https://i.imgur.com/C6groM8.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (90/1200)",
+    "Stamina": "G+ (89/1200)",
+    "Power": "G+ (83/1200)",
+    "Guts": "G+ (92/1200)",
+    "Wit": "G+ (96/1200)"
+  },
+  "skills": [
+  "Sky-High Teio Step – Tokai Teio’s evolved unique skill...",
+  "Prudent Positioning – Grants a mid-phase speed boost...",
+  "Thunderbolt Step – Offers a sharp acceleration burst...",
+  "Shrewd Step – Improves Teio’s lane-switching responsiveness...",
+  
+  "Mid-range Straightaways ○ – Slight boost to speed on Medium-distance straights. Works well on layouts with long final straights like Hanshin or Tokyo.",
+  
+  "Pace Chaser Straightaways ◎ – Moderately boosts straightaway speed for Pace-style runners. Keeps Teio pushing through middle and final phases smoothly.",
+  
+  "Second Wind – Slight recovery in the middle of the race. Helps prevent stamina collapse when stacking multiple bursts like Sky-High Teio Step + Decisive Move.",
+  
+  "Corner Recovery ○ – Slightly recovers stamina on tight corners. Useful on Nakayama and Hanshin when pacing is interrupted mid-turn.",
+  
+  "Straightaway Spurt – Slightly boosts acceleration on the final straight. Great safety net if the unique skill doesn’t trigger cleanly."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "E",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "D",
+    "Pace": "A",
+    "Late": "C",
+    "End": "E"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "10%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Her main weapon for comebacks. Teio builds shine when Speed is maximized (~1200).",
+      "Stamina – Medium and Long distances require 400–500, especially without healing. Teio loses power quickly without stamina balance.",
+      "Wit – Ensures her skills trigger on time and her AI doesn't freeze during race phases. 400+ recommended to counter environmental penalties.",
+      "Power – Boosts cornering speed and helps avoid delays when switching lanes. 350+ is useful but secondary to Speed/Stamina.",
+      "Guts – Only invest if skipping recovery or building niche endurance strategies. Most builds will deprioritize it safely."
+    ],
+    "supportCards": [
+      "3 Speed Cards: Best choices are Tokai Teio (SSR), Oguri Cap, or Christmas Oguri for overlapping training and events.",
+      "1 Stamina Card: Super Creek or Rice Shower bring healing skills and high stamina growth.",
+      "1 Wit Card: Fine Motion and Smart Falcon provide stable training bonuses, recovery events, and pacing help.",
+      "1 Flex Card: Use Power if turns and agility are a problem, or healing if you're racing on Long/Heavy tracks."
+    ],
+    "legacyRecommendations": [
+      "Mejiro McQueen – Offers endurance traits in inheritance, especially useful for Long course matchups.",
+      "Symboli Rudolf – Combines well with Teio’s finishing style through shared final-leg skills.",
+      "Rice Shower – Reinforces stamina build and helps with heavy weather courses or longer tracks."
+    ],
+    "strategyTips": [
+      "Train Speed as consistently as possible to maintain a winning pace burst.",
+      "Use Wit drills to avoid unnecessary fatigue and to improve skill trigger chances.",
+      "Avoid placing Teio in the lead early — she performs best from 3rd or 4th during the final leg.",
+      "Choose Medium races to maximize skill uptime and reduce stamina pressure, unless heavily supported."
+    ],
+    "scenarioTips": [
+      "Medium Races: Balance Speed and Stamina for the best outcome. Most of Teio’s skills activate perfectly at these distances.",
+      "Long Races: Add recovery skills or upgrade Stamina support if burnout is an issue.",
+      "Headwind Conditions: Increase Wit training to maintain positional flexibility and ensure skills still trigger.",
+      "Tight Corners: Include Power-oriented supports if you're seeing slowdown or inefficient turns."
+    ],
+    "summary": "- Build for explosive final-leg bursts\n- Prioritize Speed, sustain Stamina, and boost Wit\n- Don't lead early — maintain middle position to trigger skills\n- Support card synergy is crucial for long-term stability\n- Stick to Medium Turf races for best performance"
+  }
+},
+
+{
+  "name": "Gold Ship",
+  "imageUrl": "https://i.imgur.com/VyFohjd.png",
+  "style": "End",
+  "baseStats": {
+    "Speed": "G+ (82/1200)",
+    "Stamina": "G+ (96/1200)",
+    "Power": "F (100/1200)",
+    "Guts": "G+ (77/1200)",
+    "Wit": "G+ (70/1200)"
+  },
+  "skills": [
+  "Warning Shot – Activates early to disrupt Front runners...",
+  "Pressure – Mid-phase skill that undermines opponent recovery...",
+  "I Can See Right Through You – Boosts awareness when boxed in...",
+  "After School Stroll – Mid-race stamina boost...",
+  "Uma Stan – Wit-based skill that improves skill activation...",
+  
+  "Encroaching Shadow – Boosts acceleration on final straight. Perfect for End-style runners like Gold Ship who need an edge in the last 300m.",
+  
+  "Late Surger Corners ◎ – Moderately boosts speed in corners for Late Surger strategy. Gold Ship benefits hugely from this on turf tracks with multiple turns like Nakayama.",
+  
+  "Calm in a Crowd – Slight stamina recovery when surrounded mid-race. Excellent for Gold Ship's chaotic pack positioning.",
+  
+  "Packphobia – Slightly reduces fatigue when boxed in early phase. Keeps Gold Ship mentally stable in crowded races before her final surge.",
+  
+  "Groundwork – Slightly increases early acceleration. Helps her settle into rear positioning without overexerting before the reversal window opens."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "B",
+    "Late": "B",
+    "End": "A"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Gold Ship burns stamina fast due to her late burst strategy and needs 550–650+ for Long races. Stamina is her lifeline for recovery and endurance, especially with Reckless Charge or Lingering Flame.",
+      "Power – Enables lane control and corner recovery, critical for shifting positions during overtakes. Also boosts final-leg momentum. Aim for 500+.",
+      "Wit – Supports consistent skill activation and reduces randomness in chaotic builds. Helps secure 'Uma Stan' and 'I Can See Right Through You' triggers. Target 400+.",
+      "Speed – Not needed early but helps in final burst phase. Keep around 350–400 to avoid being outpaced at the finish line.",
+      "Guts – Only relevant if skipping healing or trying risky endurance strategies. Optional in standard builds."
+    ],
+    "supportCards": [
+      "2x Stamina Cards: Rice Shower and Super Creek offer stamina boosts and recovery skills critical to Gold Ship’s sustain.",
+      "2x Power Cards: Narita Taishin and Mihono Bourbon aid in acceleration and positioning during overtakes.",
+      "1x Wit Card: Smart Falcon or Fine Motion stabilize pacing and trigger support logic.",
+      "1x Flex Slot: Use another Stamina or Power depending on distance. For Long tracks or rainy conditions, a second stamina card helps offset Reckless Charge stamina loss."
+    ],
+    "legacyRecommendations": [
+      "Narita Brian – Exceptional stamina inheritance and recovery combo. Ideal for Long turf builds.",
+      "Taiki Shuttle – Early rhythm disruption and tempo adjustment against fast starters. Reduces Gold Ship’s opening vulnerability.",
+      "Special Week – Offers balanced burst and stamina boost, making final stretch more secure especially when stamina dips dangerously low."
+    ],
+    "strategyTips": [
+      "Choose Medium or Long-distance turf races with 2000m+ where recovery and burst timing can be fully utilized.",
+      "Avoid early speed builds — Gold Ship wins through strategic disruption and explosive finishes, not leading the pack.",
+      "Always pair a recovery skill with burst-type accelerators like Reckless Charge. Without recovery, she will crash mid-burst.",
+      "Start training Power and Wit early, then pivot to Stamina and skill unlocks by mid-cycle.",
+      "Position is everything. End-style runners need clean lanes in the final 300m. Use awareness skills like 'I Can See Right Through You' to escape boxed-in traps."
+    ],
+    "scenarioTips": [
+      "Rainy Weather: Increases misfire rates. Boost Wit to 450+ and consider doubling recovery.",
+      "Heavy Corner Tracks (e.g. Tokyo Turf): Stack Power to avoid slowdown and angle-loss during turns.",
+      "End-Heavy Fields: Prioritize stamina and ensure your burst activates after the pack burns out.",
+      "Versus Front Dominant Meta: Use Warning Shot + Pressure to reduce tempo and cause burnout early on.",
+      "Long Distance (>2400m): Minimum 600 stamina + one healing skill mandatory. Otherwise, Gold Ship fades during final corner and won't reach Reckless Charge trigger point."
+    ],
+    "summary": "- Build for stamina and disrupt early leads\n- Power keeps her moving through traffic and boosts final surges\n- Wit controls chaos — don’t neglect it\n- Recovery + Burst = win condition\n- Avoid Sprint courses and dirt tracks — she needs chaos and distance to thrive"
+  }
+},
+{
+  "name": "Vodka",
+  "imageUrl": "https://i.imgur.com/YqhPFDe.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (96/1200)",
+    "Stamina": "G+ (61/1200)",
+    "Power": "F (105/1200)",
+    "Guts": "G+ (75/1200)",
+    "Wit": "G+ (88/1200)"
+  },
+  "skills": [
+  "Xceleration – A late-phase burst that activates during positional shifts...",
+  "Straightaway Recovery – Recovers stamina while on straight sections...",
+  "Slick Surge – Boosts acceleration when breaking out from clusters...",
+  "Updrafters – A speed buff that kicks in when trailing a group...",
+  
+  "Straightaway Spurt – Slight acceleration on straights during the final phase. Supports Vodka’s high-speed style and works on finishing-heavy tracks like Tokyo.",
+  
+  "Last Spurt – Core finisher skill on the straight. Acts as backup if skill chain misfires or competition surges ahead early.",
+  
+  "Chaser's Instinct – Speed boost when trailing pack. Ideal in PvP races and career finals with crowded lineups.",
+  
+  "Corner Speed ○ – Slightly improves turning speed. Helps Vodka round corners without losing momentum in Medium tracks.",
+  
+  "Slipstream – Decreases wind resistance when closely following another runner. Useful when building reversal timing behind front pack runners."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "A",
+    "Medium": "A",
+    "Long": "F"
+  },
+  "styleRatings": {
+    "Front": "C",
+    "Pace": "B",
+    "Late": "A",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "10%",
+    "Stamina": "0%",
+    "Power": "20%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Her bread-and-butter stat with 100% growth. Max it early to enable late-game surges and activate Vodka’s reversal combo potential. Go for 1100+.",
+      "Power – Vital for passing efficiency and smooth lane switching during overtakes. Aim for 500–600 to avoid slowdown mid-pack and maximize Slick Surge/Rally Instinct.",
+      "Wit – Needed to stabilize Vodka’s AI decision-making and ensure skill chaining doesn’t misfire. Essential for skill builds with 3+ linked activations. Target 400+.",
+      "Stamina – Around 350–400 is sufficient for Mile/Medium builds. Pair with passive recovery like Straightaway Recovery to keep burst timing safe.",
+      "Guts – Optional unless playing defensive builds or aiming for underdog stability when surrounded."
+    ],
+    "supportCards": [
+      "3x Speed Cards: Vodka (SSR), Oguri Cap, El Condor Pasa — enhance late-phase performance and skill overlaps.",
+      "2x Power Cards: Mihono Bourbon or Narita Taishin — improve lane aggression and passing momentum.",
+      "1x Wit Card: Smart Falcon or Fine Motion — stabilize activation logic, fatigue control, and tactical awareness."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Boosts final-leg pacing and rhythm control; great for combo chaining.",
+      "El Condor Pasa – Adds aggression and high-speed inheritance. Enables offensive mile builds.",
+      "Special Week – Ensures stamina balance and tempo recovery during transitional phases."
+    ],
+    "strategyTips": [
+      "Build for reversal — let rivals burn early while Vodka surges from behind in the final 350m.",
+      "Use tracks with long straight sections and wide lanes to take advantage of Jetline Split and Sxceleration.",
+      "Always have one recovery skill and one situational burst. Vodka collapses if either stat or skill chain fails.",
+      "Target races with 8+ runners to maximize Updrafters and Defiance Spark reliability.",
+      "Avoid Short or Long formats — Sprint is too tight for activation, and Long lacks stamina coverage."
+    ],
+    "scenarioTips": [
+      "Rainy Weather: Wit becomes critical — boost above 450 to avoid skill misfires during turn transitions.",
+      "Pack-Dense Matchups: Use Slick Surge + Momentum Flip to escape crowding mid-phase.",
+      "Leader-Dominant Fields: Let rivals burn out, then use Defiance Spark and Jetline Split for a perfect reversal.",
+      "Sharp Corner Tracks: Invest in Power early — without it, Vodka risks losing her window for late surges."
+    ],
+    "summary": "- Vodka is a reversal expert — wins from behind with speed and aggression\n- Max Speed, stack Power, support with Wit\n- Best in Mile and Medium turf formats with dense packs\n- Skill chaining must be planned — Sxceleration + Rally Instinct is core\n- Avoid Short and Long — she thrives in tight mid-length races"
+  }
+},
+
+{
+  "name": "Grass Wonder",
+  "imageUrl": "https://i.imgur.com/4NdsSmi.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (91/1200)",
+    "Stamina": "G+ (70/1200)",
+    "Power": "G+ (99/1200)",
+    "Guts": "G+ (74/1200)",
+    "Wit": "G+ (91/1200)"
+  },
+  "skills": [
+  "Focused Mind – Enhances skill reliability in late phases...",
+  "Slick Surge – Activates when breaking away from congestion...",
+  "Flustered Pace Chasers – Disorients runners trying to maintain rhythm...",
+  "Tether – A unique control skill that keeps Grass Wonder anchored...",
+  
+  "Encroaching Shadow – Triggers in the final straight and gives Grass Wonder the last burst she needs for overtakes.",
+  
+  "Late Surger Corners ◎ – Greatly helps when rounding corners from behind. Works perfectly with her reversal build on tracks like Nakayama and Kyoto.",
+  
+  "Straightaway Spurt – Small acceleration bump on straights. Useful during unpredictable pack formations when Grass needs better burst control.",
+  
+  "Last Spurt – Standard final surge skill. Acts as Grass Wonder’s “insurance” finisher if Encroaching Shadow fails to activate.",
+  
+  "Calm in a Crowd – Slight stamina recovery when packed tightly in mid-phase. Helps offset risk during her prep phase before launching the burst."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "A",
+    "Medium": "B",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "F",
+    "Pace": "A",
+    "Late": "A",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Grass Wonder’s finishing power depends on speed bursts. With 20% growth, aim for 1000–1100 to maximize her final leg performance.",
+      "Power – Required to pass through dense packs and accelerate out of turns. With 10% growth, push this to 500+ for clean overtakes.",
+      "Wit – Essential for skill chaining and activation logic. Grass Wonder thrives in tactical chaos — ensure at least 400+ for consistent performance.",
+      "Stamina – 350–450 is sufficient for Medium and Mile races. Push beyond 500 for Long formats, especially if pairing with Crescendo Drive or Second Wind.",
+      "Guts – Low priority unless building defensive tournament setups. Can be skipped in most PvE or ranked formats."
+    ],
+    "supportCards": [
+      "3x Speed Cards: Grass Wonder (SSR), Oguri Cap, or Kitasan Black for strong growth and overlap bonuses.",
+      "2x Power Cards: Narita Taishin or Mihono Bourbon to amplify passing reliability and corner acceleration.",
+      "1x Wit Card: Fine Motion or Smart Falcon for skill logic, event recovery, and tempo stability."
+    ],
+    "legacyRecommendations": [
+      "Special Week – Balanced inheritance with stamina and skill cadence reinforcement.",
+      "Symboli Rudolf – Synergizes well with Grass Wonder’s late-phase rhythm and burst chaining.",
+      "Air Groove – Adds tactical awareness and graceful lane transitions, enhancing her ability to reposition before final sprint."
+    ],
+    "strategyTips": [
+      "Focus on Mile and Medium Turf tracks with mid-sized packs. Grass Wonder needs room to maneuver and timing to activate bursts.",
+      "Use training cycles that emphasize Speed early, then pivot into Power and Wit once skill unlocks appear.",
+      "Include both acceleration and stamina recovery skills to balance her momentum in the final 400m. Second Wind is her safety net.",
+      "Avoid positioning her near the front before final leg. She performs best from 6th–8th and activates skills when climbing through traffic.",
+      "Graceful Weave and Tether allow her to glide through chaos — include them if you're seeing skill disruption due to lane crowding."
+    ],
+    "scenarioTips": [
+      "Rainy Weather: Boost Wit to prevent skill misfires and random pacing errors.",
+      "Mile Matchups: Lower Stamina threshold (~350), max Speed and Power. Use Focused Mind and Slick Surge.",
+      "Long Courses: Add Second Wind and raise Stamina to 500+. Use Crescendo Drive for corner bursts.",
+      "Turf Tracks with Heavy Corners: Stack Power and Graceful Weave to avoid pacing loss in turns.",
+      "Meta vs Front/Pace Fields: Use Flustered Pace Chasers and Tether to destabilize tempo and conserve positioning until her burst window."
+    ],
+    "summary": "- Grass Wonder is a tactical Late-style runner who thrives on precision\n- Max Speed for surge, invest in Power for clean transitions\n- Wit stabilizes her skill logic and prevents misfires\n- Combo Focused Mind + Crescendo Drive for brutal final leg finishes\n- Avoid Sprint and Dirt — she shines in medium-density turf packs"
+  }
+},
+{
+  "name": "El Condor Pasa",
+  "imageUrl": "https://i.imgur.com/SeQKpWa.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (85/1200)",
+    "Stamina": "G+ (76/1200)",
+    "Power": "G+ (80/1200)",
+    "Guts": "G+ (93/1200)",
+    "Wit": "G+ (91/1200)"
+  },
+  "skills": [
+  "Corazón Ardiente – A unique final-phase skill...",
+  "Straightaway Adept – Passive speed boost on straight track segments...",
+  "Hawkeye – Enhances awareness of opponent positions...",
+  "Pace Chaser: Straightaways – Activates on straight sections...",
+  
+  "Straightaway Spurt – Adds acceleration during the final 200m. Stacks well with Corazón Ardiente and keeps her forward momentum consistent.",
+  
+  "Midfield Dominance – Boosts performance when surrounded mid-race. Supports her pass-making power in dense turf races.",
+  
+  "Corner Speed ○ – Helps El Condor maintain speed in technical turns. Works best on Kyoto and Hanshin tracks.",
+  
+  "Slipstream – Reduces wind resistance when following a runner. Can trigger when staying behind rivals before making a late push.",
+  
+  "Late Surger Straightaways ◎ – Major boost to speed on final straight for Late-style races. Ideal for Medium turf formats."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "B"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "A",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "E",
+    "Pace": "A",
+    "Late": "A",
+    "End": "C"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Her main source of success and signature growth stat (20%). Push to 1050+ to make Corazón Ardiente and Straightaway combo builds shine.",
+      "Wit – El Condor Pasa needs tactical awareness to navigate mid-pack chaos. 400+ ensures skills like Hawkeye and Wingbeat Rhythm activate properly.",
+      "Power – Supports lane maneuvering and corner exit speed. Aim for 450+, especially on technical tracks.",
+      "Stamina – Can be modest (350–400) for Mile and Medium formats. Boost to 450+ in Long-distance races or when using Valor Spiral builds.",
+      "Guts – Only required in defensive builds or if you're stacking risk-reward chains. Optional in standard PvE/PvP setups."
+    ],
+    "supportCards": [
+      "3x Speed Cards: El Condor Pasa (SSR), Oguri Cap, Vodka — provide growth and synergy with burst pacing.",
+      "2x Wit Cards: Fine Motion or Smart Falcon to guarantee skill chain uptime and field navigation.",
+      "1x Power Card: Mihono Bourbon or Narita Taishin — helps burst lane transitions and cornering responsiveness."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Buffs final-leg positioning and enhances rhythm chaining in comeback builds.",
+      "Vodka – Strengthens Speed + Late-style synergy and adds lane aggression.",
+      "Rice Shower – Good choice for dirt matchups and stamina balance in tougher environments."
+    ],
+    "strategyTips": [
+      "Focus on turf Medium or Mile races with 8–10 runners. Her skills shine when pack disruption and clean lane overtakes matter.",
+      "Stack Speed first, Wit second. Her success depends on efficient burst timing, not stamina endurance.",
+      "Position her mid-pack early. If she's above 4th by the final turn, Corazón Ardiente or Final Verse may not trigger.",
+      "Use Straightaway-enhanced tracks (Tokyo, Kyoto) to benefit from double activation via Straightaway Adept + Pace Chaser.",
+      "Avoid Sprint formats — her skill set activates too late to compete in fast finishes."
+    ],
+    "scenarioTips": [
+      "Rainy Conditions: Boost Wit to 450+. Prevents misfires and strengthens Sky Bridge and Hawkeye logic.",
+      "Corner-Heavy Tracks: Add Power card and Turbo Drift skill to maintain lane momentum.",
+      "Front-Heavy Fields: Let opponents waste energy early — El Condor Pasa can sweep in the final 250m with Final Verse + Valor Spiral.",
+      "Mixed Dirt Matchups: Her B Dirt rating allows conditional entries. Only race if you’ve added strong dirt-compatible supports and inheritance."
+    ],
+    "summary": "- El Condor Pasa blends skill logic, positioning, and reversal power\n- Speed and Wit must be optimized — Power supports mid-pack movement\n- Build for Medium/Mile turf with straight segments and moderate corners\n- Use Final Verse and Corazón Ardiente to punish early burnouts\n- Avoid Short Sprints or formats with low pack density"
+  }
+},
+
+{
+  "name": "Air Groove",
+  "imageUrl": "https://i.imgur.com/U8zUvxW.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (86/1200)",
+    "Stamina": "G+ (81/1200)",
+    "Power": "G+ (81/1200)",
+    "Guts": "G+ (86/1200)",
+    "Wit": "G+ (91/1200)"
+  },
+  "skills": [
+  "Empress's Pride – A signature skill that activates in the final leg...",
+  "Go With the Flow – A passive pacing stabilizer...",
+  "Up-Tempo – Slightly boosts Speed when rhythm is maintained...",
+  "Disorient – A disruption skill that weakens pacing of runners ahead...",
+  
+  "Midfield Dominance – Activates when surrounded mid-race. Works beautifully with Go With the Flow for tempo resilience.",
+  
+  "Late Surger Straightaways ◎ – Major speed boost in final straight. Gives Air Groove the punch she needs to go from 5th to 1st.",
+  
+  "Corner Speed ○ – Keeps her pacing during technical corner segments. Avoids AI slowdown and supports continuous momentum.",
+  
+  "Calm in a Crowd – Recovers stamina mid-race when packed in. Perfect for PvP formats where field density causes rhythm errors.",
+  
+  "Slipstream – Minor resistance reduction when behind a rival. Lets Air Groove recover pacing and prep for a clean late-phase breakout."
+],
+
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "C",
+    "Mile": "B",
+    "Medium": "A",
+    "Long": "E"
+  },
+  "styleRatings": {
+    "Front": "D",
+    "Pace": "A",
+    "Late": "A",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "10%",
+    "Stamina": "0%",
+    "Power": "20%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Power – Highest priority due to 20% growth rate and lane transition needs. Target 550–600, especially for corner-dense tracks.",
+      "Speed – Needed to close the gap in final phase surges. Aim for 1000+ to support Empress’s Pride and Rhythm Overdrive.",
+      "Wit – Vital for consistent skill activation, especially with pacing rhythm builds. Keep above 400.",
+      "Stamina – Moderate stamina (400–450) is sufficient for Medium races. Add recovery skills if racing in Long formats.",
+      "Guts – Can be ignored unless experimenting with defense mechanics or fatigue compensation strategies."
+    ],
+    "supportCards": [
+      "2x Power Cards: Mihono Bourbon, Narita Taishin — to maximize her lane flexibility and passing strength.",
+      "3x Speed Cards: Kitasan Black, Oguri Cap, El Condor Pasa — to support burst activation chains.",
+      "1x Wit Card: Fine Motion or Smart Falcon — to stabilize pacing and unlock rhythm-type skills."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Amplifies final-leg timing and skill chaining, great for tactical reversals.",
+      "Grass Wonder – Increases finesse traits and adds agility-focused inheritance for smooth pack navigation.",
+      "Vodka – Offers burst traits and pressure resistance when climbing late from behind."
+    ],
+    "strategyTips": [
+      "Air Groove excels in 1800m–2200m turf races with 8–10 runners. Use tracks that include mix-style fields where her skills activate during pack shifts.",
+      "Open with Power-focused training, then rotate Speed + Wit cycles to ensure final-leg burst readiness.",
+      "Position mid-pack (4th–7th) during early and mid-phase. Avoid front placements to trigger Empress’s Pride properly.",
+      "Include Turn Theory or Pulse Drift for builds on tracks with 2+ corners. Corner slowdowns can ruin her skill timings.",
+      "Disorient is best against Front-heavy metas. Let her suppress lead pacing then use combo skills to sweep in the last 300m."
+    ],
+    "scenarioTips": [
+      "Rainy Conditions: Boost Wit stat above 450. Helps prevent misfires with rhythm-locked skill builds.",
+      "Corner-Heavy Courses: Invest in Power and unlock Turn Theory early to avoid slowdown loops.",
+      "Versus Late-heavy Packs: Stack Wit and use Resolute Advance to beat rival surges cleanly.",
+      "Against Front-style Teams: Focus on Disorient + Go With the Flow chain to collapse lead momentum by mid-phase."
+    ],
+    "summary": "- Air Groove shines in tactical mid-phase control builds with rhythmic tempo surges\n- Maximize Power and Speed, use Wit to stabilize skill chains\n- Race in Medium turf formats with balanced field styles\n- Combo Empress’s Pride, Up-Tempo, and Pulse Drift for brutal final stretch plays\n- Avoid Sprint or Long formats — her style depends on dynamic middle pacing"
+  }
+},
+{
+  "name": "Mayano Top Gun",
+  "imageUrl": "https://i.imgur.com/7kZGuOj.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "G+ (73/1200)",
+    "Stamina": "F (100/1200)",
+    "Power": "G+ (67/1200)",
+    "Guts": "G+ (95/1200)",
+    "Wit": "G+ (90/1200)"
+  },
+  "skills": [
+    "1st Place Kiss – Mayano’s unique skill. Activates when she engages in a challenge on the final corner while positioned toward the front. Grants her a burst of speed to hold the lead. In career mode, this shines in chaotic Medium turf finales, especially when she's dueling someone like Vodka or El Condor Pasa.",
+    
+    "Straightaway Recovery – Restores stamina during straight segments. Mayano benefits from this early in training mode where stamina growth is key but Speed lags behind. Great for Hanshin and Tokyo tracks with extended straights.",
+    
+    "Deep Breaths – Slightly decreases fatigue by taking a breather upon entering a straight. Allows Mayano to maintain tempo when leading and preparing to trigger 1st Place Kiss. Best used during Medium-distance races with aggressive field pacing.",
+    
+    "Leader's Pride – Slightly avoids being passed early-race. A must-have for Mayano’s Front-style identity, especially in PvP where early disruption from other Front/Pace runners is common.",
+    
+    "Escape Artist – Slightly increases ability to go to the front mid-race. Works in tandem with Leader’s Pride and gives her a stable pacing rhythm before her unique skill activates.",
+    
+    "Front Runner Corners ◎ – Moderately boosts cornering speed while leading. Crucial on tracks like Kyoto where Mayano can secure early lead and extend into the final leg with control.",
+    
+    "Corner Recovery ○ – Slightly restores stamina on turns. Great for Medium turf tracks that mix curves and straights. This allows Mayano to enter final bursts with less risk of fatigue.",
+    
+    "Fast-Paced – Slightly increases ability to go to the front mid-race. Reinforces her hybrid Front/Pace nature, ensuring she stays within lead pack without burning out.",
+    
+    "Groundwork – Slightly increases acceleration in the early phase. Helps Mayano break out of the pack cleanly and settle into leading position by Phase 2.",
+    
+    "Front Runner Straightaways ○ – Slightly boosts speed on straights when leading. Strong synergy with Straightaway Recovery, keeping her momentum high before final trigger."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "E"
+  },
+  "distanceRatings": {
+    "Sprint": "D",
+    "Mile": "D",
+    "Medium": "A",
+    "Long": "E"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "A",
+    "Late": "B",
+    "End": "B"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "10%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Her most important stat with 20% growth. Aim for 550–600 for Medium races. Mayano tends to run aggressive pacing early, so you'll need this to avoid late burnout.",
+      "Speed – Crucial despite 0% growth. You’ll need support cards and inheritance to push Speed beyond 1000 to make her unique skill viable.",
+      "Wit – Supports navigation and skill trigger reliability. Aim for 400+ to maintain activation consistency and avoid AI pacing errors.",
+      "Power – Needed for smooth cornering and lane stability. Build to 400 minimum to avoid mid-race slowdowns, especially on corner-heavy tracks.",
+      "Guts – With 10% growth, you can leverage Guts more than usual for anti-fatigue and closing resilience. Build to ~350 if skipping recovery."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Tokai Teio, Kitasan Black, or El Condor Pasa for solid training synergy.",
+      "2x Stamina Cards – Rice Shower and Super Creek to push her core stat and unlock recovery options.",
+      "1x Wit Card – Fine Motion or Smart Falcon to stabilize skill chains and prevent pacing bugs.",
+      "1x Guts/Power Flex – Use Guts if facing aggressive mid-race opposition or Power if track has technical corners."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Supports final leg consistency and adds tempo rhythm for Medium builds.",
+      "Special Week – Balances stamina and burst potential, especially useful when running long events in career mode.",
+      "Tokai Teio – Reinforces finishing combo potential and adds Speed inheritance for low-speed growth builds."
+    ],
+    "strategyTips": [
+      "Open with Stamina training until her survival rate improves. Transition into Speed/Wit once skill triggers become essential.",
+      "Run her in Medium turf tracks with wide finishing straights — Tokyo, Kyoto, and Hanshin are ideal.",
+      "Use recovery and pacing skills like Deep Breaths, Corner Recovery, and Groundwork to offset her slower Speed growth.",
+      "Always position her in the top 3 before final leg. If she's in 4th or lower, 1st Place Kiss won’t activate reliably.",
+      "Avoid Dirt and Long races — her base stats and skill chain are too fragile without deep rerolling."
+    ],
+    "scenarioTips": [
+      "Rainy Weather – Increase Wit above 450 to reduce skill misfires. Add extra recovery if needed.",
+      "Corner-Heavy Turf – Boost Power and equip Front Runner Corners ◎ to reduce slowdown mid-race.",
+      "PvP Front Meta – Use Escape Artist + Leader’s Pride to edge out rivals before the final surge.",
+      "Back-to-Back Race Weeks – Rely on Corner Recovery and Deep Breaths to preserve stamina without training losses.",
+      "Clutch Finals – Stack Straightaway Recovery + 1st Place Kiss + Groundwork for a secure finishing chain."
+    ],
+    "summary": "- Mayano excels at holding early leads into Medium turf wins\n- Train Stamina first, then push Speed through inheritance/support\n- Use pacing and recovery skills to build reliable burst timing\n- 1st Place Kiss shines when she's already near the front\n- Avoid Dirt and Long formats — she thrives in mid-range chaos"
+  }
+},
+{
+  "name": "Mejiro Ryan",
+  "imageUrl": "https://i.imgur.com/78d9GRa.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (87/1200)",
+    "Stamina": "G+ (66/1200)",
+    "Power": "G+ (95/1200)",
+    "Guts": "G+ (71/1200)",
+    "Wit": "G+ (81/1200)"
+  },
+  "skills": [
+    "Feel the Burn! – Mejiro Ryan’s unique skill. Activates late in the race and gives her a powerful surge on a corner if she’s moving up from behind. It mirrors her aggressive, emotional charging style and is most consistent in Medium turf matches where she has room to gain momentum before the last 300m.",
+    
+    "Rainy Days – Slightly improves her performance under wet conditions. A must-have for weather-heavy career paths or PvP tiers with randomized track states. Especially useful in Kyoto and Nakayama turf on rainy cycles.",
+    
+    "Outer Swell – Slight boost in velocity when overtaking from the outside on the final corner. Fits Mejiro Ryan’s reversal logic perfectly. Best triggered after entering the top 6 from wide lane shifts late-race.",
+    
+    "Up-Tempo – Boosts positioning ability during the front-mid portion of the race. With Mejiro’s tendency to stall early on crowded tracks, this helps her break into the middle pack without excessive energy loss.",
+    
+    "Late Surger Straightaways ◎ – Major speed buff when surging from behind on final straight. Stacks beautifully with Feel the Burn! and Outer Swell for clean finishes.",
+    
+    "Encroaching Shadow – Boosts acceleration in the last straight. If Outer Swell fails or triggers too early, this ensures Mejiro gets the push she needs to close the gap.",
+    
+    "Calm in a Crowd – Slightly recovers stamina when surrounded mid-race. Prevents burnout while positioning in dense fields before her final surge.",
+    
+    "Corner Recovery ○ – Helps her restore stamina during turns, particularly useful on Medium and Long tracks with three or more corners.",
+    
+    "Slipstream – Reduces resistance while following runners closely. Mejiro often tucks behind others in prep phase before her charge. This skill gives her consistency leading into Feel the Burn!",
+    
+    "Chaser's Instinct – Activates when trailing the pack. Boosts base speed and improves her reversal logic. Use in 9+ runner races where she starts from 7th or lower."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "E",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "F",
+    "Pace": "A",
+    "Late": "A",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – With 20% growth, stamina is key. Aim for 550–600 to support her late surges without collapsing. Essential in Long tracks and rain-heavy runs.",
+      "Power – Core to her surge effectiveness. Boost to at least 500 for reliable lane control and clean activation of Feel the Burn!",
+      "Wit – Buff this to 400+ to stabilize skill activation and prevent errors in crowded track layouts.",
+      "Speed – Despite 0% growth, she needs 1000+ Speed to compete in Medium finals. Use inheritance and support cards to reach that threshold.",
+      "Guts – Optional unless you’re playing PvP formats with high-fatigue conditions or want to secure endurance during reversal runs."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Rice Shower and Super Creek to reinforce endurance across career mode.",
+      "2x Power Cards – Mihono Bourbon and Narita Taishin to enhance surge quality and late-phase control.",
+      "1x Wit Card – Fine Motion or Smart Falcon for reliable skill chaining.",
+      "1x Speed Card – El Condor Pasa or Tokai Teio to push her final-leg competitiveness."
+    ],
+    "legacyRecommendations": [
+      "Grass Wonder – Excellent synergy with reversal builds and adds finesse inheritance for final stretch performance.",
+      "Symboli Rudolf – Offers stable burst and acceleration rhythm during pack disruption.",
+      "Air Groove – Grants Wit and corner control inheritance. Helps stabilize Mejiro’s pacing across varied tracks."
+    ],
+    "strategyTips": [
+      "Use her on Medium turf formats with multiple turns and wide lanes. Feel the Burn! activates best on long corners followed by straights.",
+      "Train stamina and Wit early before investing heavily in Speed. This guarantees skill stability before worrying about finishing power.",
+      "Stack Outer Swell + Encroaching Shadow + Feel the Burn! for a reliable burst chain in PvP or career finals.",
+      "Always race with 8+ runners to activate Chaser’s Instinct and Slipstream. Otherwise, her AI pathing won’t create ideal spacing.",
+      "Rainy weather, corner-heavy turf, and front-heavy matchups are her sweet spot — she punishes early leads with a calculated comeback."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Add Rainy Days skill and push Wit above 450. Keep stamina above 600.",
+      "Corner-Dense Tracks – Use Corner Recovery and Outer Swell to gain consistent burst through turns.",
+      "Against Front/Pace Builds – Let rivals exhaust themselves, then time Feel the Burn! with Encroaching Shadow.",
+      "Low Speed Growth – Train Speed with inheritance cards or friend supports. You won’t reach 1000+ without help.",
+      "Surrounded Pack Fields – Calm in a Crowd helps stabilize stamina while waiting for burst windows."
+    ],
+    "summary": "- Mejiro Ryan thrives in chaotic pack scenarios and Medium turf reversals\n- Build stamina and Power first, then support Speed through inheritance\n- Her finishing combo relies on corner timing + final straight burst\n- Avoid Sprint formats and short-distance dirt tracks\n- Pair skills like Feel the Burn!, Outer Swell, and Encroaching Shadow for maximum late-game impact"
+  }
+},
+{
+  "name": "Agnes Tachyon",
+  "imageUrl": "https://i.imgur.com/vsdR9HP.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (82/1200)",
+    "Stamina": "G+ (76/1200)",
+    "Power": "G+ (76/1200)",
+    "Guts": "G+ (79/1200)",
+    "Wit": "G+ (87/1200)"
+  },
+  "skills": [
+    "Introduction to Physiology – Unique skill. Activates on a corner during the second half of the race when conserving energy. Restores endurance moderately. In career mode, it's a tactical stamina shield, especially useful on Medium/Long turf tracks where early burnout is common.",
+    
+    "Standard Distance ◎ – Increases performance on standard distances (multiples of 400m). Best used on tracks like Kyoto 2000m or Tokyo 2400m. Grants Agnes a slight edge over rivals struggling with rhythm on measured pacing layouts.",
+    
+    "Preferred Position – Slightly decreases fatigue mid-race when she's running as a Pace-type. Helps maintain her stamina curve before chaining burst skills. Ideal in medium-pace fields with style overlap.",
+    
+    "Tether – Slightly decreases velocity of runners ahead when positioned toward the back late-race. Works as a strategic lane slow-down. Can be used in reversal builds where Agnes surges through disrupted lanes.",
+    
+    "Pace Chaser Corners ◎ – Moderately increases speed in corners for Pace-style runners. Ideal for Hanshin or Nakayama turf tracks with back-to-back turns. Keeps her mid-phase rhythm stable.",
+    
+    "Corner Recovery ○ – Restores stamina slightly while cornering. Supports Medium builds where endurance must be conserved before final bursts.",
+    
+    "Up-Tempo – Boosts positioning ability when toward the front in mid-race. Helps Agnes stay in 3rd–4th range without exhausting herself. Enhances Preferred Position timing.",
+    
+    "Go With the Flow – Moderately increases navigation late-race. Useful for AI pathing correction in career matches with randomized lane disruption.",
+    
+    "Slipstream – Slightly decreases wind resistance when following another runner closely. Stacks with Up-Tempo to prepare her for a burst handoff into the final leg.",
+    
+    "Late Surger Straightaways ○ – Slightly boosts speed during final straight phase for Late-style or hybrid builds. Grants flexibility if you're training her for reversal paths rather than pure pacing."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "D",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "E",
+    "Pace": "A",
+    "Late": "B",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "10%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Push past 1050 to get the most out of her 20% growth and to activate combo skills like Late Surger Straightaways or Up-Tempo reliably.",
+      "Stamina – Must hit 500+ for Medium and Long formats. Use recovery skills like Introduction to Physiology + Corner Recovery to protect her core.",
+      "Wit – Target 400+ to stabilize activation chains. Especially useful on rainy or skill-heavy matchups.",
+      "Power – Stack around 400 for safe cornering. Agnes is prone to delay if stuck behind clusters in Mid-phase.",
+      "Guts – With 10% growth, aim for ~350 if you’re running stamina-light builds. Buffs her reversal stability and reduces burnout risk."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Kitasan Black, Tokai Teio, or El Condor Pasa to reinforce burst and pacing stability.",
+      "2x Stamina Cards – Super Creek, Rice Shower, or Special Week to support track flexibility.",
+      "1x Wit Card – Fine Motion or Smart Falcon for logic consistency and race planning.",
+      "1x Guts or Power Flex – Adjust based on course layout. Power if facing turn-heavy tracks, Guts if contesting PvP blocks."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Great synergy with burst logic and Medium rhythm control.",
+      "Air Groove – Adds finesse-based movement traits and strategic tempo inheritance.",
+      "Grass Wonder – Balances AI and pacing stability; pairs well in reversal hybrid paths."
+    ],
+    "strategyTips": [
+      "Race her on Medium turf formats with standard distance layouts (e.g. Tokyo 2400m or Kyoto 2000m).",
+      "Avoid Mile and Sprint – her pacing and activation logic fall short in burst-heavy short tracks.",
+      "Stack Introduction to Physiology + Corner Recovery for a stamina-safe build on back-to-back race weeks.",
+      "Let her run in mid-pack (4th–5th) until final leg. This positioning keeps her pacing skills active and prepares her for tether disruption.",
+      "In PvP or skill-heavy career finals, reinforce her with Slipstream and Up-Tempo to prevent lane drift or misfired skills."
+    ],
+    "scenarioTips": [
+      "Rainy Tracks – Boost Wit above 450. Prioritize stamina passives to offset pacing disruption.",
+      "Corner-Dense Turf – Use Pace Chaser Corners ◎ and Corner Recovery ○ together to reduce skill loss.",
+      "Standard Distance Meta – Always run her in 1600m, 2000m, or 2400m formats. Her activation curve is built for rhythm-focused tracks.",
+      "Against Front-heavy Packs – Wait to trigger Tether late. Use Groundwork early to gain clean pack entry.",
+      "Career Mode – Run recovery cycles early, stack stamina, and pivot to Speed/Wit once her skill tree unlocks."
+    ],
+    "summary": "- Agnes Tachyon thrives in medium-distance turf races with rhythm-focused pacing\n- Use stamina recovery + disruption skills to stabilize her surge window\n- Build Speed to 1050+, Wit to 400+, and support stamina around 550+\n- Skills like Tether and Preferred Position keep her active across chaotic matchups\n- Avoid Sprint and Mile — her skill pacing and activation chain are too slow for fast formats"
+  }
+},
+{
+  "name": "Winning Ticket",
+  "imageUrl": "https://i.imgur.com/3sXqmBx.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (87/1200)",
+    "Stamina": "G+ (68/1200)",
+    "Power": "G+ (91/1200)",
+    "Guts": "G+ (74/1200)",
+    "Wit": "G+ (80/1200)"
+  },
+  "skills": [
+    "V Is for Victory! – Winning Ticket's unique skill. Activates on the final straight with a boost to velocity when she refuses to back down from a challenge. Best used on Medium and Long turf races where she’s climbing from mid-pack positions. In career mode, it’s her clutch win condition, especially when battling reversal-heavy rivals like Gold Ship or Mejiro Ryan.",
+    
+    "Firm Conditions – Slightly increases performance when racing on firm ground. Useful on sunny turf tracks like Tokyo or Kyoto. Helps stabilize pacing for skill chains in fair weather seasons.",
+    
+    "Steadfast – Slightly boosts her ability to fight back when passed on the final corner. Synergizes with V Is for Victory! for a double surge combo. Helps her reclaim positions after being overtaken by aggressive front-runners.",
+    
+    "Fighter – Slight boost to passing ability. Works well when paired with Steadfast and supports clean overtakes just before the final burst. Great on Medium-distance tracks with open lanes.",
+    
+    "Encroaching Shadow – Accelerates her on the final straight. Backup skill for V Is for Victory! triggers and adds consistency on longer races with erratic pack formations.",
+    
+    "Late Surger Corners ◎ – Moderately increases speed on corners when surging from the back. Crucial for activation flow when Winning Ticket is pacing through multi-turn turf tracks.",
+    
+    "Corner Recovery ○ – Restores stamina slightly while cornering. Helps preserve stamina in Medium formats where early fatigue could block her final activation chain.",
+    
+    "Straightaway Spurt – Small acceleration bonus on final straights. Activates consistently and stacks nicely with her unique skill for a sharp finishing kick.",
+    
+    "Chaser's Instinct – Increases speed when trailing behind multiple runners. Helps Winning Ticket surge from 6th–8th position reliably before final corner entry.",
+    
+    "Slipstream – Reduces wind resistance when following behind another runner. Helps maintain stamina and alignment before her surge begins — ideal on turf with layered pack dynamics."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "F",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "B",
+    "Late": "A",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "10%",
+    "Power": "20%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Power – Key to Winning Ticket's success. Push this to 600+ using supports and training. Vital for clean overtakes and corner transitions.",
+      "Speed – Aim for 1000+ despite 0% growth. Use inheritance and supports to reach competitive levels for final-leg performance.",
+      "Stamina – Target 450–550 depending on track distance. Use recovery skills like Corner Recovery or Firm Conditions to balance expenditure.",
+      "Wit – Buff to 400 for activation logic and skill chaining. Helps prevent AI stall-outs and misfires.",
+      "Guts – Optional unless building fatigue-resistance setups. Can skip in most career builds."
+    ],
+    "supportCards": [
+      "2x Power Cards – Mihono Bourbon, Narita Taishin for passing and corner control.",
+      "2x Speed Cards – El Condor Pasa, Tokai Teio to boost final phase acceleration.",
+      "1x Stamina Card – Rice Shower or Special Week to round out endurance needs.",
+      "1x Wit Card – Fine Motion or Smart Falcon to stabilize skill chains."
+    ],
+    "legacyRecommendations": [
+      "Mejiro Ryan – Reinforces reversal play with smart stamina and corner logic.",
+      "Symboli Rudolf – Adds consistency to final stretch pacing.",
+      "Grass Wonder – Supports finesse and strategic rhythm across Medium-distance formats."
+    ],
+    "strategyTips": [
+      "Run her in turf Medium or Long tracks with clean corner setups. Winning Ticket depends on activation timing more than raw stats.",
+      "Use skills like Fighter + Steadfast + Encroaching Shadow to ensure she has both passing power and burst capacity.",
+      "Position her in 5th–8th range mid-race. If she's too far back, activation windows may fail; too far forward and key skills won’t trigger.",
+      "Stack velocity and acceleration — her winning logic comes from surging past runners near the final 400m stretch.",
+      "Avoid Sprint or Mile formats. She lacks the early burst pacing needed to activate skills quickly enough in short races."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Boost Wit above 450 and use Firm Conditions to offset weather penalty.",
+      "Corner-Heavy Turf – Stack Late Surger Corners ◎ with Corner Recovery ○ for smooth transitions.",
+      "Reversal Meta – Let rivals burn stamina early, then combo Chaser’s Instinct with V Is for Victory! and Encroaching Shadow.",
+      "Crowded Fields – Use Slipstream to stay aligned behind runners and avoid stamina spikes early on.",
+      "Career Mode – Build Power early, then pivot into Speed and Wit once her skill unlocks come online."
+    ],
+    "summary": "- Winning Ticket excels at reversal surges on Medium turf tracks with wide finishing straights\n- Focus on Power for clean overtakes, Speed for final push, and Stamina to survive pacing demands\n- Use Fighter, Steadfast, and V Is for Victory! as the core combo\n- Avoid short races — her skill chain needs time to breathe\n- Best paired with reversal-focused legacy runners for added synergy"
+  }
+},
+{
+  "name": "Sakura Bakushin O",
+  "imageUrl": "https://i.imgur.com/9VUJH5H.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "G+ (87/1200)",
+    "Stamina": "G+ (54/1200)",
+    "Power": "G+ (93/1200)",
+    "Guts": "G+ (85/1200)",
+    "Wit": "G+ (81/1200)"
+  },
+  "skills": [
+    "Class Rep + Speed = Bakushin – Unique skill. Activates when Sakura is engaged in a challenge toward the front in the second half. Grants a high-speed surge, ideal for Sprint turf dominance. In career mode, this is her defining move for quick victories on tracks like Nakayama 1200m or Kyoto 1400m.",
+    
+    "Sprinting Gear – Slightly increases acceleration on a straight. Best used during short turf Sprint matches with early finish lines. Works well alongside her unique for immediate burst results.",
+    
+    "Flustered Front Runners – Slightly increases fatigue for other Front-style runners mid-race. Disruption tool that helps her maintain lead pressure early while rivals lose stamina edge.",
+    
+    "Huge Lead – Slightly boosts ability to maintain the lead when already ahead mid-race. Helps Sakura push advantage once she grabs position, essential in solo Front builds.",
+    
+    "Pace Chaser Straightaways – Slightly increases velocity on straight segments for Pace-style runners. While Sakura is a Front runner, this skill still boosts her straight speed late-race if built with slight hybrid flexibility.",
+    
+    "Front Runner Corners ◎ – Moderately boosts cornering speed while in lead. Crucial for tracks like Hanshin and Kyoto that include tight turns early where she needs to break ahead.",
+    
+    "Fast-Paced – Slightly improves positioning early-mid race. Combines well with Huge Lead and Flustered Front Runners to maintain dominance from gate to goal.",
+    
+    "Escape Artist – Slightly increases ability to break from the pack. With Sakura’s all-in style, this helps her avoid congestion when racing in full fields like 18-runner PvP formats.",
+    
+    "Corner Speed ○ – Slightly improves speed during turns. Supports sprint tracks with aggressive starts and continuous curves (e.g. Chukyo or Nakayama).",
+    
+    "Groundwork – Slightly boosts acceleration early race. Ensures Sakura starts clean and gains early lead to secure her unique activation curve."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "A",
+    "Mile": "B",
+    "Medium": "G",
+    "Long": "G"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "A",
+    "Late": "F",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Highest priority. With 20% growth and sprint emphasis, build toward 1100+ to make full use of her burst chain.",
+      "Power – Minimum 400–450 to avoid slowdown in corners and improve lane control. Supports early acceleration skills.",
+      "Guts – Optional. Only needed if running back-to-back races in career mode or facing stamina drain from skill spam.",
+      "Wit – Target 400+ to ensure activation consistency and improve skill logic in congested tracks.",
+      "Stamina – Sprint-focused builds only need 350–400. Avoid excess investment unless pushing into Mile formats."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Sakura Bakushin O (SSR), El Condor Pasa, or Oguri Cap for Speed growth and synergy.",
+      "2x Wit Cards – Smart Falcon or Fine Motion for skill consistency, especially useful in sprint chaos.",
+      "1x Power Card – Mihono Bourbon or Kitasan Black to strengthen early burst and corner pacing.",
+      "1x Flex – Stamina if extending into Mile formats, otherwise another Speed or Wit support works fine."
+    ],
+    "legacyRecommendations": [
+      "Silence Suzuka – Offers speed and early burst pacing inheritance. Ideal in sprint loops.",
+      "Sakura Bakushin O (alt) – If available, provides stronger short-track burst logic.",
+      "Special Week – Adds stamina recovery options when running career mode with stacked sprint events."
+    ],
+    "strategyTips": [
+      "Race exclusively in Sprint or short Mile turf formats. Avoid Medium or Long — her stamina and skill chain collapse quickly there.",
+      "Trigger Class Rep + Speed = Bakushin with Groundwork + Escape Artist for gate-to-goal control.",
+      "Stack acceleration skills early, then surge with Huge Lead mid-race. This forces rivals into stamina loss loops.",
+      "Always run her in sunny, firm turf conditions for best performance. Add Firm Conditions if available.",
+      "In PvP formats, equip Flustered Front Runners to disrupt opposing Front builds like Daiwa Scarlet or Narita Brian."
+    ],
+    "scenarioTips": [
+      "Sunny Sprint Tracks – Buff Speed and use Sprinting Gear + Huge Lead for instant victory.",
+      "Tight Turf Corners – Add Front Runner Corners ◎ and Corner Speed ○ for clean pacing.",
+      "Full Runner Fields – Use Escape Artist and Groundwork to avoid opening congestion.",
+      "Mile Attempt – Train Stamina to 500+ and add Firm Conditions for reliability.",
+      "Career Sprint Chains – Use low recovery builds + skill spam strategy to win early events fast."
+    ],
+    "summary": "- Sakura Bakushin O is a sprint specialist built for high-speed turf races\n- Max out Speed, reinforce Power and Wit for skill stability\n- Chain Class Rep + Speed with Huge Lead and Sprinting Gear for unstoppable finishes\n- Avoid anything beyond Mile — her style collapses in long formats\n- Use disruption skills like Flustered Front Runners to sabotage rival leaders"
+  }
+},
+{
+  "name": "Haru Urara",
+  "imageUrl": "https://i.imgur.com/0txvDLv.png",
+  "style": "End",
+  "baseStats": {
+    "Speed": "G+ (83/1200)",
+    "Stamina": "G+ (58/1200)",
+    "Power": "G+ (89/1200)",
+    "Guts": "G+ (86/1200)",
+    "Wit": "G+ (84/1200)"
+  },
+  "skills": [
+    "Super-Duper Stoked – Haru Urara’s unique skill. Activates on the final corner when she's toward the back and surrounded, giving her a minor speed boost and stamina relief. In career mode, it’s her underdog surge moment — especially effective in dirt Sprint or Mile races with 7+ runners.",
+    
+    "Lay Low – Slightly recovers endurance when the way ahead is jammed early-race. Helps Haru survive chaos at the gate and maintain her pace without falling too far behind.",
+    
+    "Sprinting Gear – Slightly increases acceleration on a straight. Ideal for dirt Sprint tracks like Oi 1200m where final straight activation is critical for catching up.",
+    
+    "1,500,000 CC – Slightly increases velocity on an uphill late-race. A themed skill that suits Haru’s never-give-up persona, giving her a final push even when terrain stacks against her.",
+    
+    "End Closer Corners ◎ – Moderately boosts speed in corners for End-style runners. Helps her recover momentum mid-turn and prepare for her final leg burst.",
+    
+    "Encroaching Shadow – Boosts acceleration on the final straight. If Super-Duper Stoked triggers too early or fails due to lane congestion, this helps ensure she still surges at the end.",
+    
+    "Straightaway Recovery – Slight stamina restoration on straight segments. Gives Haru breathing room before her acceleration chain hits, especially when skill activation isn't optimal.",
+    
+    "Slipstream – Slightly reduces wind resistance while trailing another runner. Helps her stay close without burning stamina, setting up her final leg burst.",
+    
+    "Chaser's Instinct – Boosts speed when trailing pack mid-race. Adds reliability to her surge momentum after mid-race skill chaining.",
+    
+    "Late Surger Straightaways ○ – Slight velocity bump on straight segments during a comeback. Activates reliably in dirt Sprint formats with clean run lines."
+  ],
+  "trackRatings": {
+    "Turf": "G",
+    "Dirt": "A"
+  },
+  "distanceRatings": {
+    "Sprint": "A",
+    "Mile": "B",
+    "Medium": "G",
+    "Long": "G"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "G",
+    "Late": "A",
+    "End": "B"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "10%",
+    "Power": "0%",
+    "Guts": "20%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Guts – With 20% growth, boost this to 450–500 to support her reversal logic and fatigue resistance. It also enhances her final leg stability.",
+      "Stamina – Build to 400+ for Sprint/Mile formats. Use recovery skills like Lay Low and Straightaway Recovery to support chain sustainability.",
+      "Power – Target 400 minimum for clean overtakes and corner pacing. Helps with activation of End Closer Corners ◎.",
+      "Speed – Despite 0% growth, aim for 950–1000+ using inheritance and Speed supports. Vital for consistent finishing potential.",
+      "Wit – Keep above 380 to minimize skill misfires and improve position logic in pack-heavy matchups."
+    ],
+    "supportCards": [
+      "2x Guts Cards – Use Haru Urara SSR + Narita Taishin to push stamina resistance and burst sustainability.",
+      "2x Speed Cards – Kitasan Black, El Condor Pasa, or Vodka for final leg surging potential.",
+      "1x Power Card – Mihono Bourbon or Rice Shower to improve lane control.",
+      "1x Wit Card – Fine Motion or Smart Falcon for tactical consistency."
+    ],
+    "legacyRecommendations": [
+      "Nice Nature – Adds underdog reversal traits and corner control inheritance.",
+      "Winning Ticket – Supports stamina recovery and clean overtakes.",
+      "Symboli Rudolf – Boosts acceleration logic and pairing compatibility in Dirt races."
+    ],
+    "strategyTips": [
+      "Use Haru Urara on dirt Sprint or Mile formats only — her style collapses outside those ranges.",
+      "Trigger Lay Low and Slipstream early, then use Super-Duper Stoked + Encroaching Shadow for a final burst chain.",
+      "Position her behind 5th early to ensure her Late/End logic triggers the correct skill set.",
+      "Stack Guts and Stamina first during training, then pivot into Speed and Power once recovery support kicks in.",
+      "Avoid Front-heavy fields where congestion blocks her early pacing window — aim for reversal-based pack setups."
+    ],
+    "scenarioTips": [
+      "Rainy Dirt – Boost Wit above 450 and use Straightaway Recovery to prevent burnout.",
+      "High Guts Builds – Stack stamina skills and use End Closer Corners ◎ to convert recovery into overtaking.",
+      "PvP Sprint Fields – Use Flustered Front Runners and 1,500,000 CC to slow opponents and tilt track pressure.",
+      "Back-to-Back Career Races – Reinforce recovery cycles with Lay Low and Calm in a Crowd to sustain burst timing.",
+      "Low-Speed Growth – Prioritize inheritance lanes with Speed cards to keep her final leg performance competitive."
+    ],
+    "summary": "- Haru Urara is a Dirt Sprint underdog built for reversal surges and surprise comebacks\n- Maximize Guts and Stamina, support Speed and Power for finishing power\n- Use Lay Low + Super-Duper Stoked + Encroaching Shadow for a sharp final burst combo\n- Avoid Medium or Long tracks — her endurance and pacing structure aren’t designed for extended formats\n- Career builds shine when focusing on tempo disruption and reactive burst chains"
+  }
+},
+{
+  "name": "Matikanefukukitaru",
+  "imageUrl": "https://i.imgur.com/OOetnvl.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (77/1200)",
+    "Stamina": "G+ (81/1200)",
+    "Power": "G+ (88/1200)",
+    "Guts": "G+ (81/1200)",
+    "Wit": "G+ (73/1200)"
+  },
+  "skills": [
+    "Luck Be with Me! – Matikanefukukitaru’s unique skill. Activates when the way ahead is jammed late-race, clearing a path with an aura of divination and increasing velocity. Best used in Medium or Long turf formats with heavy traffic where positioning errors can block burst timing. In career mode, it’s your clutch answer to dense pack formations.",
+    
+    "Smoke Screen – Moderately narrows the field of view for runners ahead late-race. A debuff that weakens rival tempo and disrupts their skill triggers. Especially useful in PvP fields where multiple Late-style runners compete for clear lanes.",
+    
+    "A Small Breather – Slightly recovers stamina in the late phase. Pairs well with Luck Be with Me! and sustains her reversal push even if prior pacing wasn’t ideal.",
+    
+    "Lucky Seven – Triggers random positive effects when Matikanefukukitaru is placed in bracket 7. Excellent passive for career mode and PvP where bracket manipulation is possible. Can grant extra recovery, reduced collision risk, or bonus positioning logic.",
+    
+    "Late Surger Corners ◎ – Moderately boosts cornering speed for Late-style runners. Activates consistently on Medium turf tracks with multiple turns like Hanshin or Nakayama.",
+    
+    "Slipstream – Slightly reduces wind resistance when trailing a runner. Helps conserve stamina while prepping her reversal combo mid-race.",
+    
+    "Chaser's Instinct – Speed boost when trailing pack runners. Staple skill for Late-style strategy and essential in fields with 8+ rivals.",
+    
+    "Corner Recovery ○ – Slightly restores stamina during corners. Works beautifully on Long turf tracks with sharp turns and heavy pacing drain.",
+    
+    "Straightaway Spurt – Small acceleration on the final straight. Great safety net if Luck Be with Me! doesn’t activate properly due to pack misalignment.",
+    
+    "Calm in a Crowd – Slightly recovers stamina when surrounded mid-race. Ensures stability while positioning for reversal before launching her final chain."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "F"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "B",
+    "Late": "A",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Her primary growth stat. Aim for 600+ in Medium and Long formats, especially if skill chaining multiple bursts.",
+      "Power – Build to 500 for clean overtakes and sustained reversals. With 10% growth, it supports corner momentum and mid-pack pacing.",
+      "Speed – Push to 950+ with inheritance or Speed supports. Her reversal chain fails without sufficient finishing power.",
+      "Wit – Target 380+ to minimize skill misfires and improve pack awareness. Enhances Smoke Screen and Lucky Seven consistency.",
+      "Guts – Optional unless stacking recovery compensation. Can stay around 300 unless facing fatigue-heavy matchups."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower to unlock Long formats and sustain reversals.",
+      "2x Power Cards – Narita Taishin and Mihono Bourbon to push lane control and cornering strength.",
+      "1x Speed Card – El Condor Pasa or Tokai Teio for surge reliability.",
+      "1x Wit Card – Smart Falcon or Fine Motion to prevent late-race stall outs and improve skill logic."
+    ],
+    "legacyRecommendations": [
+      "Mejiro Ryan – Adds finesse and high corner synergy to her skill tree.",
+      "Grass Wonder – Supports pack navigation traits and complements Smoke Screen logic.",
+      "Symboli Rudolf – Enhances finish reliability and pacing through chaotic matchups."
+    ],
+    "strategyTips": [
+      "Race her in Medium and Long turf formats with 8+ runners. Avoid Sprint races — activation windows are too narrow.",
+      "Trigger Calm in a Crowd + Chaser's Instinct + Smoke Screen mid-race, then launch Luck Be with Me! into Straightaway Spurt.",
+      "Train Stamina and Power first, then pivot into Speed and Wit once race chain logic is established.",
+      "Use Lucky Seven passively in career races for unpredictable but often clutch positioning enhancements.",
+      "Avoid racing in bracket 1–3 unless running training loops. She performs best with space for reversal."
+    ],
+    "scenarioTips": [
+      "Rainy Weather – Boost Wit above 400 and reinforce stamina. Helps ensure activation chain stability.",
+      "Corner-Heavy Turf – Use Corner Recovery ○ + Late Surger Corners ◎ for clean turn pacing.",
+      "PvP Fields – Equip Smoke Screen to neutralize rival finishing paths. Works well against Front-heavy metas.",
+      "Back-to-Back Career Weeks – Use A Small Breather and Straightaway Recovery to stay race-ready without skipping training.",
+      "Crowded Mid-Race Fields – Add Slipstream to preserve stamina and prep for a burst entry lane."
+    ],
+    "summary": "- Matikanefukukitaru thrives on luck-based reversals and stamina resilience\n- Focus training on Stamina, Power, and Speed while supporting Wit activation logic\n- Her skill chain works best when timed precisely from mid-pack into a corner/straight burst\n- Avoid Sprint formats — she needs time to build pressure before her unique activates\n- Use Lucky Seven as a passive edge in career mode and Smoke Screen to disrupt rival finales"
+  }
+},
+{
+  "name": "Nice Nature",
+  "imageUrl": "https://i.imgur.com/M92LTLv.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (86/1200)",
+    "Stamina": "G+ (72/1200)",
+    "Power": "G+ (89/1200)",
+    "Guts": "G+ (69/1200)",
+    "Wit": "G+ (84/1200)"
+  },
+  "skills": [
+    "I Can Win Sometimes, Right? – Nice Nature’s unique skill. Activates late-race when she’s placed 3rd and about to lose, triggering a burst of fighting spirit and increased velocity. This underdog-style surge thrives in Medium and Long turf formats with crowded fields. In career mode, it’s her clutch kick when all seems lost.",
+    
+    "Kokura Racecourse – Slightly increases performance at Kokura. Best used during seasonal or career events hosted on Kokura’s technical turf layout. Supports positioning and skill reliability during complex pacing tracks.",
+    
+    "Murmur – Slightly disturbs runners directly ahead mid-race. Creates minor disruption and AI hesitation that opens passing lanes. Effective on dense tracks when trying to break past Pace-style rivals.",
+    
+    "Sharp Gaze – Slightly startles other runners late-race. A debuff that weakens skill chaining and tempo of nearby rivals in the final leg. Pairs well with Nature’s unique skill to maximize momentum near the goal.",
+    
+    "Late Surger Corners ◎ – Moderately boosts cornering speed when surging from the back. Perfect on Medium/Long turf tracks with multi-turn pacing like Nakayama or Hanshin.",
+    
+    "Encroaching Shadow – Boosts acceleration on the final straight. Adds reliability in burst timing when her unique skill doesn’t activate perfectly.",
+    
+    "Slipstream – Slightly reduces wind resistance while following another runner. Helps conserve stamina and maintain pack proximity before her final kick.",
+    
+    "Corner Recovery ○ – Slight stamina restoration on turns. Supports pacing before launching Late Surger Corners ◎ into the final burst chain.",
+    
+    "Straightaway Spurt – Small acceleration bonus on final straight segments. Perfect for turf tracks with wide finishing lanes like Tokyo.",
+    
+    "Chaser’s Instinct – Speed boost when trailing multiple opponents. Helps Nature’s AI logic decide surge moment more reliably from 6th or worse positions."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "F",
+    "Pace": "B",
+    "Late": "A",
+    "End": "D"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – With 20% growth, push to 600+ in Long-distance races. Use Corner Recovery and Slipstream to protect stamina until final leg.",
+      "Power – Target 500 for solid lane transitions and cornering strength. Helps activate Late Surger Corners ◎ smoothly.",
+      "Speed – Must reach 950–1000 using supports and inheritance. Required for her final stretch momentum and burst chaining.",
+      "Wit – Train to at least 400 for clean skill activations and logical lane handling. Buffs Sharp Gaze and Murmur timing.",
+      "Guts – Optional unless facing fatigue-heavy matchups in PvP or back-to-back race scheduling."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Rice Shower and Super Creek for endurance builds.",
+      "2x Power Cards – Narita Taishin and Mihono Bourbon to support lane responsiveness.",
+      "1x Speed Card – El Condor Pasa or Vodka to enhance final burst consistency.",
+      "1x Wit Card – Smart Falcon or Fine Motion for tactical activation logic."
+    ],
+    "legacyRecommendations": [
+      "Mejiro Ryan – Adds finesse and reversal synergy, great for Long races.",
+      "Grass Wonder – Supports composure and pack awareness, works with Sharp Gaze.",
+      "Symboli Rudolf – Enhances burst strength and pacing logic on varied track formats."
+    ],
+    "strategyTips": [
+      "Run her on turf Medium and Long tracks with wide finishing straights. Avoid Sprint formats — her reversal logic needs time to ramp.",
+      "Stack Murmur + Sharp Gaze + I Can Win Sometimes, Right? into a disruption-reversal combo for PvP and career finals.",
+      "Avoid placing her higher than 3rd mid-race. Her skill chain is optimized when she’s struggling then suddenly surges.",
+      "Build stamina early, then pivot into Speed and Power once her field layout matches track conditions.",
+      "Always run her with 9+ rivals to trigger Chaser’s Instinct and maximize reversal patterns."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Boost Wit and Power above 450, reinforce Stamina with recovery skills.",
+      "Corner-Heavy Tracks – Pair Corner Recovery ○ with Late Surger Corners ◎.",
+      "PvP Reversal Meta – Use Murmur and Sharp Gaze to destabilize rival finishers before launching her own.",
+      "Career Mode – Use Lucky Seven bracket manipulation if available, and race on Kokura for passive boosts.",
+      "Crowded Fields – Equip Slipstream and Chaser’s Instinct to keep pacing tight before final burst."
+    ],
+    "summary": "- Nice Nature shines in comeback builds with tactical debuffs and last-gasp surges\n- Push stamina and power early, build speed through support cards\n- Her combo thrives in crowded turf races where timing and disruption matter\n- Avoid short tracks — her unique needs breathing room before striking\n- Skill set pairs beautifully with reversal allies like Mejiro Ryan or Grass Wonder"
+  }
+},
+{
+  "name": "King Halo",
+  "imageUrl": "https://i.imgur.com/xVqvRek.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (87/1200)",
+    "Stamina": "G+ (60/1200)",
+    "Power": "G+ (93/1200)",
+    "Guts": "G+ (73/1200)",
+    "Wit": "G+ (87/1200)"
+  },
+  "skills": [
+    "Call Me King – King Halo's unique skill. Activates in the final straight when racing calmly with 200m remaining, triggering a powerful surge in velocity. Perfect for turf Sprint and Mile formats when he's well-paced and ready to assert dominance. In career mode, it's his reliable finisher when he’s not boxed out early.",
+    
+    "Outer Post Proficiency – Slightly boosts performance in brackets 6–8. Helps Halo maintain positioning and stamina when starting on the outer gate. Especially useful in full 18-runner fields and PvP settings.",
+    
+    "Gap Closer – Slightly boosts finishing ability when positioned toward the back late-race. Complements his Late-style logic. Ideal in Mile races with multiple burst competitors.",
+    
+    "Studious – Slightly expands field awareness mid-race. Prevents bad pack decisions and supports skill activation accuracy. Works well when King Halo is positioned 6th–9th entering the second half.",
+    
+    "Straightaway Acceleration – Boosts acceleration during straight segments. Vital for tracks like Tokyo where King Halo’s final kick needs more reach.",
+    
+    "Late Surger Straightaways ◎ – Moderately boosts straight velocity when coming from behind. Ideal for Sprint and Mile finals on turf with extended finishing straights.",
+    
+    "Encroaching Shadow – Grants acceleration on the final straight. Safety net skill in case Call Me King fails due to placement or AI routing.",
+    
+    "Slipstream – Reduces wind resistance when following another runner. Synergizes with Outer Post Proficiency and Studious to stabilize mid-race stamina use.",
+    
+    "Corner Speed ○ – Slightly improves speed in corners. Helps King Halo round turns without pacing delay on layouts like Kyoto or Nakayama.",
+    
+    "Calm in a Crowd – Restores stamina when surrounded mid-race. Keeps him composed and avoids fatigue collapse while prepping for burst chain."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "A",
+    "Mile": "B",
+    "Medium": "B",
+    "Long": "C"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "B",
+    "Late": "A",
+    "End": "D"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Priority stat with 20% growth. Build to 500+ for Mile/Medium formats. Use Calm in a Crowd and Slipstream to support early energy balance.",
+      "Power – Target 500+ to enhance cornering and lane transitions. With 10% growth, Power allows Halo to pass cleanly in tight packs.",
+      "Speed – Must reach 1000+ through support cards or inheritance. Essential for activating burst skills in competitive finals.",
+      "Wit – Boost to 400 for skill reliability and AI decision control. Works with Studious and Outer Post synergy.",
+      "Guts – Optional unless building for fatigue resistance or recovery chaining. Can be skipped in most builds."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Oguri Cap, Tokai Teio, or El Condor Pasa to boost final stretch potential.",
+      "2x Power Cards – Mihono Bourbon and Narita Taishin for passing strength and cornering.",
+      "1x Stamina Card – Rice Shower or Special Week if pushing into Medium/Long formats.",
+      "1x Wit Card – Fine Motion or Smart Falcon for skill chain consistency and awareness traits."
+    ],
+    "legacyRecommendations": [
+      "Nice Nature – Adds reversal synergy and clean corner traits. Perfect partner for Mile formats.",
+      "Symboli Rudolf – Supports burst and pack navigation logic.",
+      "Grass Wonder – Grants finesse and passive recovery traits for reversal builds."
+    ],
+    "strategyTips": [
+      "Race him in Sprint or Mile turf formats with wide straightaways. Tokyo and Kyoto are ideal.",
+      "Use Outer Post Proficiency with Slipstream and Studious to stabilize early stamina use.",
+      "Stack Encroaching Shadow + Late Surger Straightaways ◎ to reinforce final leg burst.",
+      "Avoid being placed higher than 4th mid-race — his activation curve depends on reversals, not leads.",
+      "Let Halo trail early to mid-phase, then chain burst skills for a clean final charge."
+    ],
+    "scenarioTips": [
+      "Rainy Weather – Boost Wit to 450 and reinforce stamina passives for pacing control.",
+      "Corner-Dense Turf – Add Corner Speed ○ and Power training to improve control.",
+      "Full Fields – Use Outer Post synergy and Calm in a Crowd to support mid-race setup.",
+      "PvP Sprint Builds – Pair Encroaching Shadow + Call Me King + Gap Closer to secure sharp finishes.",
+      "Career Mode – Build stamina first, then shift into Power and Speed for race consistency."
+    ],
+    "summary": "- King Halo excels in reversal-style runs across Sprint and Mile turf formats\n- Train stamina and power early, then reinforce speed using supports\n- Use Slipstream and Outer Post Proficiency to stabilize pacing\n- His finishing chain hinges on precise timing — keep him mid-pack until the final turn\n- Avoid Dirt tracks and Short Sprints with crowd-heavy AI pacing"
+  }
+},
+{
+  "name": "Special Week",
+  "imageUrl": "https://i.imgur.com/2SjiGF7.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "G+ (83/1200)",
+    "Stamina": "G+ (88/1200)",
+    "Power": "G+ (98/1200)",
+    "Guts": "G+ (90/1200)",
+    "Wit": "G+ (91/1200)"
+  },
+  "skills": [
+    "Shooting Star – Special Week’s unique skill. Activates late-race when passing another runner near the front, delivering a surge of velocity. Its timing makes it a reliable finisher in Medium and Long turf races. In career mode, it’s a dependable clutch tool to overcome rivals like Mejiro McQueen or Gold Ship.",
+    
+    "Homestretch Haste – Slightly increases velocity in the last spurt. Acts as backup when Shooting Star’s conditions aren’t met. Helps her maintain closing speed on tracks like Tokyo or Kyoto.",
+    
+    "Steadfast – Slightly boosts performance when passed by another runner on the final corner. Encourages Special Week to push back into contention rather than falling behind. Great for PvP formats where positioning changes frequently.",
+    
+    "Hydrate – Slight stamina recovery mid-race. Keeps Special Week’s pace intact before her acceleration combo activates. Especially useful on career paths with minimal Stamina training support.",
+    
+    "Late Surger Corners ◎ – Moderately increases speed in corners while running from behind. Activates reliably on Medium/Long turf tracks with multiple turns and supports surge setup.",
+    
+    "Encroaching Shadow – Boosts acceleration on final straights. Complements Shooting Star and improves finishing consistency on turf layouts with wide final sections.",
+    
+    "Corner Recovery ○ – Slightly restores stamina on corners. Adds breathing room during pacing transitions before final bursts.",
+    
+    "Slipstream – Reduces wind resistance when trailing another runner. Helps preserve stamina and sets up mid-pack positioning for her unique to trigger cleanly.",
+    
+    "Straightaway Spurt – Adds a minor acceleration boost during the final straight. Reinforces her surge timing if Shooting Star is slightly delayed.",
+    
+    "Chaser's Instinct – Boosts speed when trailing the pack. Locks in her reversal strategy early and improves her middle leg pacing."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "F",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "G",
+    "Pace": "A",
+    "Late": "A",
+    "End": "C"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Her standout stat with 20% growth. Push to 600+ in Long races. Use Hydrate and Corner Recovery to preserve endurance.",
+      "Speed – Train to reach 1000+ using inheritance and Speed support cards. Critical for activating final surge combos.",
+      "Power – Target 500 to support corner performance and overtaking. With high base stat, it naturally synergizes with reversal pacing.",
+      "Wit – Reach 400+ for skill consistency. Improves trigger reliability for Shooting Star and others.",
+      "Guts – Optional unless running fatigue-heavy matchups. Supports recovery stability in certain PvP builds."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower for core durability.",
+      "2x Speed Cards – El Condor Pasa, Tokai Teio, or Special Week SSR for burst scaling.",
+      "1x Power Card – Mihono Bourbon or Narita Taishin for lane control.",
+      "1x Wit Card – Fine Motion or Smart Falcon for tactical logic and activation timing."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Great synergy with late-leg momentum and pacing control.",
+      "Grass Wonder – Adds reversal finesse and stability during crowded finals.",
+      "Nice Nature – Enhances corner precision and complements anti-fatigue logic."
+    ],
+    "strategyTips": [
+      "Race Special Week on Medium and Long turf tracks with wide straights. Avoid Sprint formats where her skill chain is compromised.",
+      "Trigger Hydrate mid-race to sustain pacing and then chain Steadfast → Encroaching Shadow → Shooting Star.",
+      "Train Speed and Stamina first. Her natural balance handles cornering and reversals efficiently.",
+      "Position her around 5th–7th mid-race to reliably activate Shooting Star while minimizing crowd jamming.",
+      "Add Slipstream and Corner Recovery for stamina support when running consecutive career races or PvP tiers."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Boost Wit above 450 and add power supports to stabilize turns.",
+      "Long-Distance Career – Prioritize stamina scaling, add backup recovery skills like Hydrate or A Small Breather.",
+      "Crowded Finals – Use Chaser’s Instinct with Steadfast and Slipstream to control pacing before surge.",
+      "PvP Reversal Matches – Equip Late Surger Corners ◎ and Straightaway Spurt to build her momentum chain.",
+      "Seasonal Tracks – Run her on Tokyo, Kyoto, or Hanshin turf layouts for reliable skill activation windows."
+    ],
+    "summary": "- Special Week excels as a tactical Late-style runner with resilient stamina and strong final burst\n- Build Speed to 1000+, support with stamina recovery and corner control\n- Her combo of Steadfast + Shooting Star + Encroaching Shadow dominates Medium and Long formats\n- Avoid Sprint races and Dirt — her skill flow and pacing aren’t suited for short bursts\n- Pair with reversal-style legacy runners for enhanced PvP and career synergy"
+  }
+},
+
+{
+  "name": "Silence Suzuka",
+  "imageUrl": "https://i.imgur.com/E56xwmE.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "F (101/1200)",
+    "Stamina": "G+ (84/1200)",
+    "Power": "G+ (77/1200)",
+    "Guts": "F (100/1200)",
+    "Wit": "G+ (88/1200)"
+  },
+  "skills": [
+    "The View from the Lead Is Mine! – Silence Suzuka’s signature skill. Activates in the final straight when she's already leading by a fair margin, unleashing all remaining strength to increase velocity. In career mode, it’s a full-send finisher, best used in Mile or Medium turf races where she naturally holds early dominance.",
+    
+    "Focus – Decreases delay caused by poor starts. Vital for Front-style runners like Suzuka where the lead must be secured immediately for skill chains to activate. Use this to prevent gate mishaps in career races with narrow margins.",
+    
+    "Final Push – Slightly improves Suzuka’s ability to hold onto the lead on the final corner. Pairs well with her unique skill and ensures she doesn’t drop position right before her burst.",
+    
+    "Rosy Outlook – Reduces stamina drain when leading mid-race. Keeps Suzuka from burning out before entering her final leg. Best used on turf Medium-distance tracks with mild elevation changes.",
+    
+    "Escape Artist – Slightly improves her ability to surge ahead mid-race. Crucial when trying to establish dominance on tracks with aggressive Front runners like Daiwa Scarlet or Sakura Bakushin O.",
+    
+    "Fast-Paced – Slightly increases ability to reach and maintain front placement in the early-middle phase. Combines well with Focus and Rosy Outlook for early tempo stability.",
+    
+    "Corner Speed ○ – Boosts speed during turns. Helps maintain Suzuka’s lead on turf tracks like Nakayama with tight cornering.",
+    
+    "Front Runner Corners ◎ – Moderately improves cornering performance for Front runners. Stacks with Corner Speed ○ to solidify pacing through technical turns.",
+    
+    "Leader's Pride – Slightly lowers the risk of being passed early-race. Important for Silence Suzuka’s uninterrupted pacing style.",
+    
+    "Front Runner Straightaways ○ – Slight boost to velocity on straights when leading. Works perfectly on Tokyo or Kyoto turf layouts with long final stretches."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "D",
+    "Mile": "A",
+    "Medium": "A",
+    "Long": "E"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "C",
+    "Late": "E",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Primary stat. Push above 1100 to fully leverage her 20% growth and secure early dominance.",
+      "Stamina – Aim for 500+ in Medium-distance races. Use Rosy Outlook and recovery support to stabilize pacing without overtraining.",
+      "Power – With 10% growth, build to 450–500 for strong cornering and smooth transitions. Supports her corner-based skills.",
+      "Wit – Target 400+ for reliable skill activation and to improve AI decision making.",
+      "Guts – Optional unless running tight stamina builds or fatigue-heavy PvP loops."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Tokai Teio, Sakura Bakushin O, or Oguri Cap for speed scaling.",
+      "2x Stamina Cards – Special Week or Rice Shower to support Medium races.",
+      "1x Power Card – Mihono Bourbon or Kitasan Black for pacing consistency.",
+      "1x Wit Card – Smart Falcon or Fine Motion to stabilize corner and activation logic."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Supports final leg burst logic and improves activation windows.",
+      "Sakura Bakushin O – Adds sprint-focused speed traits and early burst pacing.",
+      "Daiwa Scarlet – Provides Front-style inheritance and anti-fatigue pairing for fast tracks."
+    ],
+    "strategyTips": [
+      "Use Silence Suzuka on turf Sprint, Mile, and Medium tracks with wide straights and clean corners. Avoid Long formats — she risks burnout.",
+      "Stack Focus + Fast-Paced + Rosy Outlook to create early-mid phase stamina control and secure positioning.",
+      "Trigger Final Push and The View from the Lead Is Mine! after clean corner exits to dominate the finishing straight.",
+      "Start training Speed early, then pivot to Power and Stamina once stat ceilings approach.",
+      "Avoid racing with more than two other Front-style runners unless building disruption skills — Suzuka needs breathing room to trigger her core chain."
+    ],
+    "scenarioTips": [
+      "Rainy Weather – Push Wit and Power higher to reduce pace disruption on slick turns.",
+      "Full Fields – Use Escape Artist and Leader's Pride to avoid congestion and early overtakes.",
+      "Corner-Heavy Tracks – Equip Front Runner Corners ◎ with Corner Speed ○ for clean transitions.",
+      "Career Sprint Routes – Run her with pacing recovery and high-speed combos to dominate early rounds.",
+      "PvP Turf Finals – Position Suzuka in bracket 6–7 for optimal lane control and trigger stability."
+    ],
+    "summary": "- Silence Suzuka is an elite Front-style turf specialist for Sprint and Mile formats\n- Focus training on Speed first, then add Stamina and Power for career sustainability\n- Her skill chain thrives when she’s uncontested and surging through corners\n- Avoid long-distance formats and densely packed races\n- Best paired with acceleration supports and tempo stabilizers to keep her out front"
+  }
+},
+{
+  "name": "Maruzensky",
+  "imageUrl": "https://i.imgur.com/fFQrvss.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "G+ (96/1200)",
+    "Stamina": "G+ (68/1200)",
+    "Power": "G+ (86/1200)",
+    "Guts": "F (100/1200)",
+    "Wit": "F (100/1200)"
+  },
+  "skills": [
+    "Red Shift/LP1211-M – Maruzensky's unique skill. Activates in the final corner or later when she's in front, unleashing gear-shifting acceleration. Great for sprinting through the last push in Mile and Medium turf matches. In career mode, it’s her performance spike when she’s secured clean early lead and is ready to shift into overdrive.",
+    
+    "Straightaway Adept – Slightly boosts speed on straights. With Maruzensky’s early lead pacing, this gives her consistent velocity reinforcement across Mile formats like Tokyo or Kyoto turf.",
+    
+    "Early Lead – Slightly boosts her ability to go to the front early in the race. Core skill for any Front-style runner and vital for setting up Red Shift's activation window.",
+    
+    "Shifting Gears – Slightly improves passing ability when positioned toward the front mid-race. Supports her ability to reinforce lead pressure mid-phase before finishing burst kicks in.",
+    
+    "Escape Artist – Slightly improves mid-race movement for Front-style runners. Helps prevent lane congestion and stabilizes her lead prep ahead of skill chain triggers.",
+    
+    "Front Runner Straightaways ○ – Slight velocity boost on straights when leading. Stacks beautifully with Straightaway Adept and supports her unique skill timing.",
+    
+    "Corner Speed ○ – Slightly boosts speed in turns. Essential for Medium formats on technical layouts like Nakayama or Kyoto.",
+    
+    "Fast-Paced – Slightly increases ability to go to the front during mid-race. Enhances synergy with Early Lead and prevents mid-pack collapse.",
+    
+    "Front Runner Corners ◎ – Moderately increases cornering ability while leading. Ensures Red Shift doesn’t drop pacing just before activation.",
+    
+    "Leader's Pride – Slightly reduces the chance of being passed early. Great defensive utility for Suzuka-like solo Front build setups."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "D"
+  },
+  "distanceRatings": {
+    "Sprint": "B",
+    "Mile": "A",
+    "Medium": "B",
+    "Long": "C"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "E",
+    "Late": "G",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "10%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "20%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Push above 1050 using training and support cards. Her 10% growth rate makes this easier and essential for race dominance.",
+      "Wit – Core to her activation chain with 20% growth. Maximize to 500+ to ensure Red Shift and corner skills fire without AI hesitation.",
+      "Stamina – Build to 450–500 depending on Sprint or Mile formats. Use recovery and pacing skills to offset lower growth.",
+      "Power – Train to 400–450 to support early acceleration and lane stability. Especially valuable on corner-heavy layouts.",
+      "Guts – With 100 base stat, she’s resilient. Boost slightly if building fatigue-resistant PvP setups."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Sakura Bakushin O, El Condor Pasa, or Oguri Cap to maximize early pacing.",
+      "2x Wit Cards – Smart Falcon or Fine Motion to stabilize logic and improve skill trigger reliability.",
+      "1x Power Card – Mihono Bourbon or Rice Shower for smooth transitions.",
+      "1x Stamina Card – Optional based on track format; swap with Speed or Wit as needed."
+    ],
+    "legacyRecommendations": [
+      "Silence Suzuka – Adds solo-lead inheritance and improves pace synergy.",
+      "Daiwa Scarlet – Supports Front-style resilience and anti-fatigue pacing.",
+      "Sakura Bakushin O – Amplifies Sprint logic and provides early acceleration boosts."
+    ],
+    "strategyTips": [
+      "Race her in Mile and Medium turf formats with clean straight finishes. Tokyo and Kyoto turf are ideal for her activation curve.",
+      "Stack Early Lead + Fast-Paced + Shifting Gears for a mid-race control combo. Then chain Corner Speed ○ + Red Shift/LP1211-M to seal the finish.",
+      "Run her solo in Front-style lineups or with only one rival to reduce risk of pacing interference.",
+      "Use Wit training early to ensure all burst and movement skills activate cleanly in crowded career fields.",
+      "Avoid Dirt and Long formats — her stamina and dirt rating don’t support sustained pacing under those conditions."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Push Wit above 480 and reinforce corner pacing with Power support.",
+      "Sprint Career Maps – Scale stamina to 400+ and add Straightaway Adept to hold tempo.",
+      "PvP Front Meta – Use Leader’s Pride + Escape Artist to dodge congestion and boost clean lane entry.",
+      "Corner-Heavy Tracks – Equip Front Runner Corners ◎ with Corner Speed ○ for optimal pacing.",
+      "Stamina-Limited Loops – Add Rosy Outlook or Calm in a Crowd to prevent burnout in multi-race setups."
+    ],
+    "summary": "- Maruzensky is a lead-focused sprinter with sharp skill chains and pacing dominance\n- Train Speed and Wit early, then add Power and Stamina to round out her foundation\n- Her combo works best when controlling the race from gate to goal\n- Use Red Shift strategically on final corner exits for explosive finishes\n- Avoid Dirt and Long tracks — she thrives in fast turf showdowns"
+  }
+},
+{
+  "name": "Oguri Cap",
+  "imageUrl": "https://i.imgur.com/jqWeupY.png",
+  "style": "Late",
+  "baseStats": {
+    "Speed": "F (101/1200)",
+    "Stamina": "G+ (66/1200)",
+    "Power": "F (106/1200)",
+    "Guts": "G+ (84/1200)",
+    "Wit": "G+ (93/1200)"
+  },
+  "skills": [
+    "Triumphant Pulse – Oguri Cap's unique skill. Activates in the final 200m when positioned toward the front, breaking out of the pack and increasing velocity. In career mode, this skill is his gold-standard finisher in Medium and Long turf races when he's surging from 4th or higher.",
+    
+    "Corner Acceleration – Slightly increases acceleration while turning. Useful for initiating bursts in corner-heavy tracks like Nakayama or Kyoto. Essential to link Oguri’s skill timing and maintain pacing transitions.",
+    
+    "Acceleration – Slightly increases acceleration when passing another runner mid-race. Lets Oguri push his tempo while overtaking through Phase 2 and supports build consistency for non-lead surges.",
+    
+    "Hydrate – Slightly recovers stamina mid-race. Helps him maintain rhythm while prepping for final leg combos. Especially useful when training Stamina lightly or running back-to-back career races.",
+    
+    "Late Surger Corners ◎ – Moderately boosts speed when cornering from the back. Strong synergy with Oguri’s reversal style on Medium turf tracks with technical turns.",
+    
+    "Encroaching Shadow – Boosts acceleration on final straight. Backup burst tool if Triumphant Pulse fails due to poor positioning. Helps salvage wins in PvP when pack racing is unpredictable.",
+    
+    "Slipstream – Reduces wind resistance when following closely behind a runner. Allows Oguri to conserve stamina before entering surge phase. Best used in 8+ runner setups.",
+    
+    "Straightaway Spurt – Slight boost in acceleration during final straight. Pairs well with Triumphant Pulse and Encroaching Shadow to ensure sustained forward momentum.",
+    
+    "Corner Recovery ○ – Restores stamina slightly on turns. Helps offset early drain and allows Oguri to survive tight races without needing full stamina training.",
+    
+    "Chaser's Instinct – Boosts speed when trailing pack runners. Activates reliably in Medium and Long formats with reversal-friendly layouts and deep fields."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "B"
+  },
+  "distanceRatings": {
+    "Sprint": "E",
+    "Mile": "A",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "F",
+    "Pace": "A",
+    "Late": "A",
+    "End": "D"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Primary stat with 20% growth. Build to 1100+ for consistent activation of his unique and backup burst skills.",
+      "Power – Push to 550+ with his 10% growth. Needed for clean surges, sharp corners, and winning overtakes.",
+      "Stamina – Target 500 for Medium, 600 for Long races. Use Hydrate and Corner Recovery to prevent overtraining.",
+      "Wit – 400+ recommended for AI logic and skill accuracy. Stabilizes pacing and improves decision-making.",
+      "Guts – Optional unless facing fatigue-heavy PvP setups. Can stay around 350 unless relying on recovery chains."
+    ],
+    "supportCards": [
+      "2x Speed Cards – El Condor Pasa, Tokai Teio, or Special Week to maximize sprint potential.",
+      "2x Power Cards – Mihono Bourbon and Narita Taishin to support overtaking and corner control.",
+      "1x Stamina Card – Super Creek or Rice Shower for sustainable endurance.",
+      "1x Wit Card – Smart Falcon or Fine Motion to maintain skill activation flow."
+    ],
+    "legacyRecommendations": [
+      "Grass Wonder – Enhances finesse in reversal builds and complements AI rhythm.",
+      "Symboli Rudolf – Adds burst logic and supports Triumphant Pulse chaining.",
+      "Mejiro Ryan – Reinforces corner synergy and stamina-safe traits for Long formats."
+    ],
+    "strategyTips": [
+      "Use Oguri Cap on Medium and Long turf tracks. Avoid Sprint formats — his reversal logic depends on race length.",
+      "Position him 5th–8th mid-race to cleanly activate Triumphant Pulse with minimal collision risk.",
+      "Chain Encroaching Shadow and Straightaway Spurt after his unique skill to reinforce finishing momentum.",
+      "Use Hydrate early and Corner Recovery mid-race to stabilize energy before triggering reversals.",
+      "Train Speed and Power hard early, then reinforce stamina once he starts chaining full skill combos."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Push Wit above 450 and reinforce stamina using Hydrate or A Small Breather.",
+      "Corner-Heavy Layouts – Equip Late Surger Corners ◎ + Corner Acceleration + Corner Recovery ○.",
+      "PvP Finals – Chain Slipstream + Chaser’s Instinct early, then launch unique in final straight.",
+      "Full Fields – Avoid center lanes; place Oguri in bracket 5 or 6 to control traffic and ensure burst lane.",
+      "Back-to-Back Career Weeks – Rotate recovery and pacing support to preserve activation consistency."
+    ],
+    "summary": "- Oguri Cap is a tactical Late-style runner for turf Medium and Long formats with strong reversal logic\n- Build Speed and Power first, then add stamina and Wit for durability and precision\n- Chain Triumphant Pulse with Encroaching Shadow for reliable finishes\n- Avoid Sprint formats and lead-heavy fields where positioning fails\n- Supports reversal builds and works best with well-paced, clean field matchups"
+  }
+},
+{
+  "name": "Taiki Shuttle",
+  "imageUrl": "https://i.imgur.com/9m5AL4w.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (96/1200)",
+    "Stamina": "G+ (71/1200)",
+    "Power": "G+ (98/1200)",
+    "Guts": "G+ (93/1200)",
+    "Wit": "G+ (92/1200)"
+  },
+  "skills": [
+    "Shooting for Victory! – Taiki Shuttle's unique skill. Activates on the final corner when she's well-positioned, delivering a burst of acceleration with energetic flair. Best used on Mile and Sprint turf tracks with wide finishes. In career mode, it's a reliable finisher when Taiki holds 2nd–4th entering the last turn.",
+    
+    "Straightaway Adept – Slightly boosts speed on straights. Consistent passive boost in Sprint/Mile races like Tokyo 1400m or Hanshin 1600m. Helps stabilize pacing during final leg transitions.",
+    
+    "Shifting Gears – Slightly improves passing ability when positioned toward the front mid-race. Supports Tempo-style strategy where Taiki climbs into lead range before unleashing her burst.",
+    
+    "Pace Chaser Savvy – Slightly increases her ability to secure favorable mid-pack positioning. Vital for maintaining rhythm on tracks where early congestion can derail skill chains.",
+    
+    "Escape Artist – Slightly boosts movement mid-race for Front runners. Helps Taiki in hybrid builds when placed in brackets 1–3. Can shift her style slightly based on inheritance or PvP setups.",
+    
+    "Straightaway Spurt – Adds a minor acceleration boost during the final stretch. Pairs beautifully with Shooting for Victory! for clean Mile surges.",
+    
+    "Corner Speed ○ – Slightly improves speed during turns. Necessary on Sprint tracks with early corner entries (e.g. Nakayama). Keeps Taiki competitive into the final phase.",
+    
+    "Corner Recovery ○ – Recovers a small amount of stamina during turns. Enables continuous pacing flow without overtraining stamina.",
+    
+    "Fast-Paced – Slightly increases lead potential in the early-middle phase. Supports climbing from mid-pack toward lead zone before Shooting for Victory! triggers.",
+    
+    "Up-Tempo – Slight positioning boost in middle race phase. Ensures smoother lane decisions and stability before combo chain activation."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "B"
+  },
+  "distanceRatings": {
+    "Sprint": "A",
+    "Mile": "A",
+    "Medium": "E",
+    "Long": "G"
+  },
+  "styleRatings": {
+    "Front": "C",
+    "Pace": "A",
+    "Late": "E",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "20%",
+    "Stamina": "0%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Speed – Her top growth stat. Push past 1050 using Speed supports to activate her unique reliably and win races outright.",
+      "Wit – With 10% growth, reach 400+ to stabilize activation logic and maintain pacing consistency.",
+      "Power – Build to ~450 for lane strength and corner control. Crucial when fighting through mid-pack on Sprint tracks.",
+      "Stamina – Aim for 400–450 in Mile formats. Use Corner Recovery ○ and passive skills to reduce overtraining burden.",
+      "Guts – Optional unless building fatigue resistance for back-to-back race weeks or PvP stress tests."
+    ],
+    "supportCards": [
+      "2x Speed Cards – Sakura Bakushin O, El Condor Pasa, or Oguri Cap for early momentum.",
+      "2x Wit Cards – Fine Motion and Smart Falcon for skill precision and corner logic.",
+      "1x Power Card – Mihono Bourbon or Rice Shower to stabilize tight turns.",
+      "1x Stamina Card – Only if stretching into 1600m races or back-to-back training cycles."
+    ],
+    "legacyRecommendations": [
+      "Sakura Bakushin O – Sprint synergy and tempo pairing.",
+      "Silence Suzuka – Adds Front inheritance and finishing logic.",
+      "Special Week – Great support for passive stamina recovery and Mile pacing."
+    ],
+    "strategyTips": [
+      "Run Taiki on Mile and Sprint turf tracks with clean final straights — Tokyo and Hanshin are ideal.",
+      "Stack Shifting Gears + Pace Chaser Savvy + Straightaway Spurt into Shooting for Victory! for stable burst chaining.",
+      "Train Speed early to reach 1000+, then reinforce Power and Wit during support card cycles.",
+      "Use Up-Tempo and Fast-Paced mid-race to climb from 5th to 2nd before final corner triggers.",
+      "Avoid Long formats — her stamina and activation curve aren’t suited for extended pacing."
+    ],
+    "scenarioTips": [
+      "Corner-Heavy Sprint Layouts – Add Corner Speed ○ and Corner Recovery ○ to smooth out rotations.",
+      "Crowded PvP Fields – Use Wit above 450 with Pace Chaser Savvy for decision control.",
+      "Back-to-Back Race Schedules – Use stamina passives like Rosy Outlook or Calm in a Crowd.",
+      "Rainy Turf – Increase Wit and lane clarity. Add Power boosts to maintain momentum.",
+      "Early Career Matches – Prioritize Escape Artist and Up-Tempo to guarantee bracket advantages."
+    ],
+    "summary": "- Taiki Shuttle is a Sprint/Mile turf runner built for clean surges and tactical pacing\n- Build Speed and Wit early, then layer Power and stamina tools based on race format\n- Her combo skills activate best from 3rd–5th position entering final corner\n- Avoid Medium or Long formats — her endurance doesn't support deep pacing chains\n- Works well with tempo-focused supports like Sakura Bakushin O or Silence Suzuka"
+  }
+},
+{
+  "name": "Mejiro McQueen",
+  "imageUrl": "https://i.imgur.com/uh0UE7B.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (71/1200)",
+    "Stamina": "F (111/1200)",
+    "Power": "G+ (71/1200)",
+    "Guts": "F (103/1200)",
+    "Wit": "G+ (94/1200)"
+  },
+  "skills": [
+    "The Duty of Dignity Calls – Mejiro McQueen’s unique skill. Activates in the final corner when she’s positioned toward the front, granting increased velocity and determination not to be overtaken. A natural clutch tool in Medium and Long turf formats where lead control determines race outcomes.",
+    
+    "Spring Runner – Slightly increases performance when racing in spring. Adds seasonal flexibility for career mode scheduling and boosts consistency in league formats.",
+    
+    "Stamina to Spare – Slightly reduces fatigue in early race stages. Excellent passive for Long turf races with multiple stamina drains. Keeps McQueen composed until final bursts activate.",
+    
+    "Keeping the Lead – Slightly improves her ability to maintain the lead mid-race when ahead by a significant margin. Works well when she breaks free mid-phase and needs to lock in for final combo activation.",
+    
+    "Pace Chaser Corners ◎ – Moderately boosts speed on corners for Pace-style runners. Supports McQueen’s style and helps her maintain rhythm on tracks like Hanshin or Kyoto.",
+    
+    "Corner Recovery ○ – Slight stamina restoration on cornering. Allows her to recover ahead of the final surge chain and reduces burnout risk in technical track layouts.",
+    
+    "Up-Tempo – Slight positioning boost during middle race phase. Keeps McQueen stable as she shifts from energy conservation to aggressive pacing.",
+    
+    "Straightaway Spurt – Slight acceleration on final straight segments. Backup activation tool if her unique doesn’t fire cleanly.",
+    
+    "Hydrate – Mid-race stamina recovery. Essential for her stamina-light builds and strong support across PvP and career tracks.",
+    
+    "Slipstream – Decreases wind resistance when following a rival. Combines well with Up-Tempo and Keeping the Lead for subtle energy retention."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "E"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "F",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "B",
+    "Pace": "A",
+    "Late": "D",
+    "End": "F"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Build to 650+ for Long races, 600+ for Medium formats. She’s most effective when pacing out tough tracks with minimal fatigue.",
+      "Speed – Push to 950–1000 through support cards or inheritance. Required to trigger her unique and backup burst tools reliably.",
+      "Wit – Train to 400+ to ensure activation accuracy and clean lane decisions during pack transitions.",
+      "Power – Reach 450+ to enhance cornering and passing strength in reversal-heavy matchups.",
+      "Guts – Can be trained to ~350 if running fatigue recovery builds or competing in PvP formats with extended stress cycles."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower to bolster long-distance consistency.",
+      "2x Speed Cards – Tokai Teio, Oguri Cap, or Special Week to reinforce burst timing.",
+      "1x Wit Card – Smart Falcon or Fine Motion for activation logic and pacing control.",
+      "1x Power Card – Mihono Bourbon or Narita Taishin to manage corners and lane stability."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Adds velocity surge logic and supports final stretch control.",
+      "Mejiro Ryan – Enhances reversal skills and lane flexibility for PvP compatibility.",
+      "Grass Wonder – Complements corner synergy and stamina-safe builds."
+    ],
+    "strategyTips": [
+      "Race McQueen on Medium and Long turf tracks with clean corner layouts. Avoid Sprint or Mile formats where her skill curve doesn’t align.",
+      "Trigger Corner Recovery and Hydrate before shifting into Up-Tempo and Keeping the Lead mid-phase.",
+      "Stack Slipstream with Straightaway Spurt and The Duty of Dignity Calls to create a multi-stage burst combo in finals.",
+      "Train stamina hard early, then pivot to Speed and Power to maintain competitive lane play.",
+      "Avoid full Front-style builds — her strength lies in controlled pacing and clean mid-race transitions."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Boost Wit above 450 and reinforce stamina with double recovery skills.",
+      "Corner-Heavy Tracks – Use Pace Chaser Corners ◎ and Corner Recovery ○ for consistent pacing.",
+      "PvP Matchups – Pair Keeping the Lead + Up-Tempo + Slipstream for passive energy efficiency.",
+      "Back-to-Back Career Weeks – Focus on Stamina and Wit; skip excessive Speed unless final leg pressure is high.",
+      "Lead-Dominated Fields – Use passive lane tools and Studious-like traits to stabilize tempo."
+    ],
+    "summary": "- Mejiro McQueen is a resilient Pace-style runner built for turf Medium and Long formats with elite stamina management\n- Focus training on stamina first, then layer in Speed and Wit for finishing accuracy\n- Her combo works best when leading into final corner and maintaining control through passive support\n- Avoid short tracks and Front-heavy fields that disrupt her rhythm\n- Best paired with strategic stamina supports and lane disruptor legacies"
+  }
+},
+{
+  "name": "T.M. Opera O",
+  "imageUrl": "https://i.imgur.com/8GBhSEb.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (75/1200)",
+    "Stamina": "F (108/1200)",
+    "Power": "G+ (75/1200)",
+    "Guts": "F (102/1200)",
+    "Wit": "G+ (90/1200)"
+  },
+  "skills": [
+    "This Dance Is for Vittoria! – T.M. Opera O’s unique skill. Activates late-race if he's in the pack and surrounded by runners, unleashing a surge of velocity and theatrical flair. Perfect for Medium and Long turf formats, especially on layouts like Tokyo and Kyoto where final stretch chaos favors reversal builds. In career mode, it’s his bold curtain-call burst that leaves rivals scrambling.",
+    
+    "Non-Standard Distance – Slightly increases performance on unusual race distances (not divisible by 400m). Use on tracks like 2200m or 2500m in career mode for pacing advantage. Strong tactical value when racing seasonal events or PvP tiers with irregular formats.",
+    
+    "Prepared to Pass – Slightly improves ability to overtake during final corner when positioned just behind lead runners. Combines smoothly with Opera’s unique skill for timed surges from 4th–6th.",
+    
+    "Up-Tempo – Slightly improves positioning in mid-race when in the front half of the pack. Stabilizes his movement logic and reduces erratic pacing before the final burst combo starts.",
+    
+    "Late Surger Corners ◎ – Moderately increases speed on turns when surging from the back. Ideal on Medium/Long turf tracks with sharp turns like Nakayama and Kyoto.",
+    
+    "Encroaching Shadow – Boosts acceleration in the final stretch. Adds insurance in case Vittoria doesn’t activate properly or track spacing disrupts the AI.",
+    
+    "Slipstream – Slightly reduces wind resistance when tucked behind other runners. Supports stamina preservation and rhythm in tight fields.",
+    
+    "Corner Recovery ○ – Slight recovery of stamina during turns. Combines well with Up-Tempo for smooth pacing in turn-heavy layouts.",
+    
+    "Chaser's Instinct – Boosts speed when trailing multiple runners. Critical for skill activation in full 9+ runner races where Opera needs to punch through congestion.",
+    
+    "Hydrate – Restores stamina mid-race. Necessary for endurance builds in Long formats or PvP events with minimal recovery windows."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "E"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "E",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "C",
+    "Pace": "A",
+    "Late": "A",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "10%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Push to 650+ for Long formats. Use Hydrate and Corner Recovery ○ to avoid burnout when combo stacking.",
+      "Speed – Build to 1000+ using support cards and inheritance. Essential for final leg velocity chain activation.",
+      "Power – Train to ~450 for corner control and burst rhythm. Supports Late Surger Corners ◎ triggering.",
+      "Wit – Aim for 400+ to stabilize skill logic, especially Vittoria and Prepared to Pass.",
+      "Guts – Optional unless contesting PvP stress scenarios or stacking stamina recovery passives."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Rice Shower and Super Creek to solidify long-distance strength.",
+      "2x Speed Cards – Special Week, El Condor Pasa, or Tokai Teio to push final leg competitiveness.",
+      "1x Power Card – Mihono Bourbon or Narita Taishin for reversal and passing efficiency.",
+      "1x Wit Card – Fine Motion or Smart Falcon to stabilize AI pacing."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Adds elite reversal and burst pairing synergy.",
+      "Mejiro McQueen – Supports stamina chains and pacing logic.",
+      "Nice Nature – Provides anti-fatigue traits and corner support in reversal matches."
+    ],
+    "strategyTips": [
+      "Run T.M. Opera O on turf Medium and Long tracks with dense fields. Avoid Sprint formats — his skill chain doesn’t scale fast enough.",
+      "Train stamina and Wit early, then shift to Speed and Power for finishing pressure.",
+      "Trigger Chaser’s Instinct → Slipstream → Up-Tempo mid-race, then launch Prepared to Pass → Vittoria → Encroaching Shadow as your burst path.",
+      "Avoid placing him in bracket 1–3 unless you want to experiment with solo lead builds — he activates best from 4th or deeper.",
+      "Use Non-Standard Distance in PvP to gain track-based tactical edge where rivals may not have tailored builds."
+    ],
+    "scenarioTips": [
+      "Rainy Weather – Push Wit past 450 and pair Hydrate with Corner Recovery.",
+      "Corner-Dense Tracks – Equip Late Surger Corners ◎ and Power boosts.",
+      "PvP Pack Chaos – Launch Vittoria + Slipstream + Prepared to Pass for recovery-to-burst reversal.",
+      "Full Fields – Bracket placement matters; prioritize mid-pack entry lanes.",
+      "Back-to-Back Career – Use stamina passives to skip rest weeks without performance dips."
+    ],
+    "summary": "- T.M. Opera O excels in dramatic reversal builds and long-range turf consistency\n- Focus on stamina and speed first, then add power and tactical Wit logic\n- His unique skill activates cleanly from mid-pack and corner entry bursts\n- Avoid short formats or early burst play — he thrives in sustained tactical pacing\n- Best paired with stamina-rich allies and corner synergists for PvP domination"
+  }
+},
+
+{
+  "name": "Symboli Rudolf",
+  "imageUrl": "https://i.imgur.com/MLsCeii.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (86/1200)",
+    "Stamina": "G+ (91/1200)",
+    "Power": "G+ (83/1200)",
+    "Guts": "G+ (96/1200)",
+    "Wit": "G+ (94/1200)"
+  },
+  "skills": [
+    "Behold Thine-Emperor's Divine Might – Symboli Rudolf's unique skill. Activates in the final leg when overtaking from mid-pack, delivering a sharp surge of velocity. It’s his tactical trump card for Medium and Long turf formats with extended straights. In career mode, it ensures dramatic wins when surging from 4th–6th position.",
+    
+    "Corner Adept – Slightly improves movement and control during corners. Supports Rudolf’s mid-race positioning and keeps his surge timing smooth on technical tracks like Nakayama.",
+    
+    "Preferred Position – Activates when holding his favored racing style (Pace). Reinforces activation rhythm for core skills like Divine Might. Ideal in Long turf tracks with strategic lead setups.",
+    
+    "Tether – Slightly slows runners ahead when Rudolf is preparing a reversal. A disruptive skill that opens passing lanes in pack-heavy finals. Especially effective in PvP formats against strong Late-style rivals.",
+    
+    "Up-Tempo – Slight positioning boost in mid-race. Stabilizes Rudolf’s lane navigation and reduces pacing errors before final bursts.",
+    
+    "Slipstream – Lowers wind resistance when trailing another runner. Conserves stamina and keeps Rudolf aligned for activation in the final leg.",
+    
+    "Late Surger Straightaways ◎ – Moderately boosts velocity when surging from the back on final straights. Stacks with Divine Might and Straightaway Spurt for sustained tempo.",
+    
+    "Corner Recovery ○ – Slight recovery of stamina on turns. Crucial for Medium or Long formats with multiple corner sections.",
+    
+    "Encroaching Shadow – Adds acceleration on the final straight. Reliable burst if Divine Might fails or triggers weakly due to positioning.",
+    
+    "Chaser's Instinct – Increases speed when trailing. Complements Tether and Divine Might perfectly. Optimal in 9+ runner formats with dense mid-pack configurations."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "E",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "B",
+    "Pace": "A",
+    "Late": "A",
+    "End": "C"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "0%",
+    "Guts": "10%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – With 20% growth and Long-distance dominance, push to 650+. Use recovery and pacing passives to keep tempo safe.",
+      "Speed – Reach 1000+ using support cards and inheritance to activate Divine Might and final stretch skills reliably.",
+      "Wit – Hit 400+ to stabilize AI routing and skill firing in crowded matchups. Buffs Tether and Preferred Position consistency.",
+      "Power – Train to ~450 for clean passing logic and corner responsiveness. Important for pack surges on technical layouts.",
+      "Guts – Optional unless running PvP fatigue-resistant builds. With 10% growth, build to ~350 if stacking stamina safely."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower for durability in career finals.",
+      "2x Speed Cards – Special Week, Tokai Teio, or Oguri Cap for burst setup.",
+      "1x Power Card – Mihono Bourbon or Narita Taishin for corner control and lane transitions.",
+      "1x Wit Card – Fine Motion or Smart Falcon to reinforce mid-pack composure and logical movement."
+    ],
+    "legacyRecommendations": [
+      "Mejiro McQueen – Adds tactical stamina inheritance and corner strength.",
+      "Grass Wonder – Supports skill precision and reversal logic in PvP formats.",
+      "Winning Ticket – Offers late-phase surging compatibility and recovery synergy."
+    ],
+    "strategyTips": [
+      "Race Rudolf on Medium/Long turf formats with 9+ runners. Avoid Sprint — his surge window doesn't fit short tracks.",
+      "Train stamina early, layer Speed and Wit mid-career, then tune Power late for lane resilience.",
+      "Position Rudolf mid-pack at turn entry and chain Up-Tempo → Preferred Position → Divine Might → Encroaching Shadow.",
+      "Use Slipstream to conserve stamina in dense fields, and Corner Adept to ensure clean turn pacing.",
+      "Avoid PvP formats with extreme Front-style stacks — his reversal logic is disrupted by early choke points."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Increase Wit above 450 and pair Corner Recovery ○ with Slipstream.",
+      "Corner-Heavy Finals – Stack Late Surger Corners ◎ and Power boosts to ensure surge traction.",
+      "PvP Pack Chaos – Use Tether and Chaser’s Instinct early, then launch Divine Might into Straightaway Spurt.",
+      "Back-to-Back Career Loops – Train recovery cycles and skip rest weeks by layering stamina passives.",
+      "Bracket Strategy – Place Rudolf in lanes 5–8 to maximize pack entry and avoid early congestion."
+    ],
+    "summary": "- Symboli Rudolf is a tactical surge specialist with durability and pack disruption logic\n- Train Stamina and Speed for final leg precision, support with Wit and corner control\n- His combo thrives when overtaking from 5th or deeper across Medium and Long turf formats\n- Avoid short races and heavy Front-style competition\n- Pair him with stamina-rich allies and reversal supports to maximize career and PvP synergy"
+  }
+},
+{
+  "name": "Mihono Bourbon",
+  "imageUrl": "https://i.imgur.com/BNjuGUl.png",
+  "style": "Front",
+  "baseStats": {
+    "Speed": "G+ (96/1200)",
+    "Stamina": "G+ (72/1200)",
+    "Power": "G+ (92/1200)",
+    "Guts": "F (102/1200)",
+    "Wit": "G+ (88/1200)"
+  },
+  "skills": [
+    "G00 1st.F8; – Bourbon’s unique skill. Activates while leading late in the race, triggering a calculated burst of velocity with digital precision. Her core win condition on Medium and Long turf formats. In career mode, this is your finishing protocol if she maintains lead control throughout the race.",
+    
+    "Rainy Days – Slight boost to performance on wet turf. Helps mitigate pacing errors and stamina drain during downpours. Useful when career mode cycles include seasonal weather challenges.",
+    
+    "Early Lead – Improves her ability to surge into front position early in the race. Sets up her unique skill and stabilizes her pacing rhythm before AI congestion sets in.",
+    
+    "Rosy Outlook – Slightly reduces stamina usage while leading mid-race. Great synergy with her stamina-focused growth, letting her maintain tempo on Long tracks like Kyoto or Tokyo 2400m.",
+    
+    "Escape Artist – Boosts movement and positioning in mid-phase. Ensures she breaks away cleanly from early congestion on tracks with large fields.",
+    
+    "Leader's Pride – Reduces risk of getting passed early. Important when facing other Front builds like Daiwa Scarlet or Silence Suzuka.",
+    
+    "Front Runner Corners ◎ – Moderate cornering boost while leading. Helps Bourbon avoid pacing errors on turns at Nakayama and Kyoto.",
+    
+    "Corner Speed ○ – Supports clean turns and avoids slowdowns in aggressive layouts. Complements Front Runner Corners ◎ in technical formats.",
+    
+    "Fast-Paced – Slightly increases lead potential during the early-middle phase. Essential for Bourbon’s pacing algorithm — ensures her unique doesn’t misfire.",
+    
+    "Groundwork – Boosts early race acceleration. Helps her reach ideal positioning before field spacing takes effect."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "C",
+    "Mile": "B",
+    "Medium": "A",
+    "Long": "B"
+  },
+  "styleRatings": {
+    "Front": "A",
+    "Pace": "E",
+    "Late": "G",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "20%",
+    "Power": "10%",
+    "Guts": "0%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Core stat with 20% growth. Push to 600+ for Medium and Long formats. Key to maintaining tempo until G00 activation.",
+      "Power – Boost to 500+ with her 10% growth. Needed for cornering, lane control, and preventing burnout during lead maintenance.",
+      "Speed – Use supports and inheritance to reach 1000+. Without it, Bourbon risks losing her front-runner positioning.",
+      "Wit – Target 400+ to ensure activation flow remains clean and timing logic doesn’t misfire.",
+      "Guts – Optional unless contesting PvP fatigue builds or back-to-back training sessions. Her natural high Guts base provides good resistance."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower to reinforce race endurance.",
+      "2x Power Cards – Use Bourbon herself and Narita Taishin or Special Week for training optimization.",
+      "1x Speed Card – Tokai Teio or El Condor Pasa to reach threshold values for burst activations.",
+      "1x Wit Card – Smart Falcon or Fine Motion to maintain pacing consistency and race planning."
+    ],
+    "legacyRecommendations": [
+      "Silence Suzuka – Adds solo-front synergy and boosts early momentum inheritance.",
+      "Oguri Cap – Enhances corner control and mid-race stability.",
+      "Symboli Rudolf – Offers burst logic and skill refinement during surge chains."
+    ],
+    "strategyTips": [
+      "Run her in Medium or Long turf formats with clean final straights. Avoid Dirt — her style and skill chain don’t adapt well there.",
+      "Chain Escape Artist → Early Lead → Fast-Paced → Rosy Outlook → G00 Finfinitesymbol; for optimal burst handling.",
+      "Avoid full Front builds in PvP. Give her space by racing with 1–2 other Fronts max to maximize her lane control.",
+      "Open training with stamina and power cycles. Speed and Wit should come mid-career once skill slots unlock.",
+      "Use Front Runner Corners ◎ + Corner Speed ○ to dominate turn-heavy tracks like Hanshin or Kyoto 2200m."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Stack Rainy Days and boost Wit above 450 to offset pacing turbulence.",
+      "Corner-Heavy Career – Equip full corner suite and emphasize Power boosts to stabilize her technical game.",
+      "PvP Finals – Use Leader's Pride and Rosy Outlook to prevent aggressive rivals from passing.",
+      "Short Recovery Formats – Add stamina recovery passives or skip heavy Speed training loops.",
+      "Seasonal Formats – Slot Spring Runner or Autumn Course proficiency if career events require them."
+    ],
+    "summary": "- Mihono Bourbon is a precision-based Front runner designed for Medium/Long turf tracks\n- Train Stamina and Power early, support Speed via inheritance, and reinforce Wit logic\n- Her burst chain peaks in final stretch from clean corner exits\n- Avoid Dirt, Sprint, or reversal matchups — she thrives in solo lane control\n- Best paired with algorithmic pacing supports and corner specialists"
+  }
+},
+
+{
+  "name": "Rice Shower",
+  "imageUrl": "https://i.imgur.com/gKOYOte.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (71/1200)",
+    "Stamina": "F (117/1200)",
+    "Power": "G+ (70/1200)",
+    "Guts": "F (102/1200)",
+    "Wit": "G+ (90/1200)"
+  },
+  "skills": [
+    "Blue Rose Closer – Rice Shower's unique skill. Activates in the final stretch when she’s dueling against rivals for position, granting a sharp surge in velocity. Most reliable in Long turf formats where stamina and pacing create dramatic overtakes. In career mode, this is her poetic final flourish after withstanding early duels.",
+    
+    "Deep Breaths – Slight stamina recovery mid-race. Excellent for offsetting early fatigue and prepping Rice's late surge window. Best used on tracks with steady pacing where overtraining stamina isn’t ideal.",
+    
+    "Subdued Pace Chasers – Slightly reduces stamina usage of runners ahead who are pushing too hard. A disruption skill that favors Rice’s strategic endurance play — letting rivals tire before she closes the gap.",
+    
+    "Straight Descent – Slight boost in performance on downhill segments. Useful in turf tracks with sloped layouts like Nakayama or Kyoto. Adds stamina efficiency and subtle tempo control during early phases.",
+    
+    "Corner Recovery ○ – Restores stamina slightly during turns. With her stamina-heavy builds, this lets Rice Shower stay fresh through technical sections of Long tracks.",
+    
+    "Pace Chaser Corners ◎ – Moderately increases cornering speed for Pace-style runners. Stacks nicely with her corner pacing and boosts her position before activation of Blue Rose Closer.",
+    
+    "Slipstream – Slightly reduces wind resistance when following another runner. Useful during mid-race duels and keeps her stamina usage low.",
+    
+    "Chaser’s Instinct – Adds speed when trailing multiple rivals. Helps set up her late-phase burst, especially in races with 9+ runners.",
+    
+    "Late Surger Straightaways ◎ – Moderate boost in velocity when overtaking in final stretch. Works perfectly with her unique and improves surge reliability.",
+    
+    "Up-Tempo – Slight positioning boost in mid-race. Stabilizes her pacing and helps her reach optimal activation position for late combo skills."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "E",
+    "Mile": "C",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "B",
+    "Pace": "A",
+    "Late": "C",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "10%",
+    "Power": "0%",
+    "Guts": "20%",
+    "Wit": "0%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Train to 650+ for Long formats. Use Deep Breaths and Straight Descent to stretch her endurance without draining stat training cycles.",
+      "Guts – With 20% growth, build to ~450–500 to improve stamina resistance, burst timing, and fatigue immunity.",
+      "Speed – Target 950+ using support cards and inheritance. Required to activate final surge and keep up with rivals.",
+      "Power – Build to 400–450 to support corner pacing and stable lane movement.",
+      "Wit – Train to at least 380 to improve AI decision logic and reduce misfires on skill activation."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Special Week for top-end endurance value.",
+      "2x Guts Cards – Rice Shower (SSR) and Narita Taishin for fatigue resistance and skill efficiency.",
+      "1x Speed Card – Tokai Teio, Oguri Cap, or El Condor Pasa to boost final surge potential.",
+      "1x Power or Wit Card – Use Mihono Bourbon or Fine Motion depending on track layout needs."
+    ],
+    "legacyRecommendations": [
+      "Mejiro McQueen – Adds corner control, stamina synergy, and pairing consistency for Long formats.",
+      "Symboli Rudolf – Supports burst logic and reversal reliability in chaotic pack formations.",
+      "Nice Nature – Reinforces fatigue-friendly pacing and enhances corner performance."
+    ],
+    "strategyTips": [
+      "Run her in Long turf formats with multiple corners and gentle slopes — Tokyo 2500m or Kyoto 2400m are ideal.",
+      "Use Deep Breaths + Corner Recovery + Rosy Outlook to secure pacing and prevent burnout before the final leg.",
+      "Stack Subdued Pace Chasers + Slipstream + Chaser’s Instinct early, then Blue Rose Closer → Late Surger Straightaways ◎.",
+      "Avoid Sprint and Dirt formats — her pacing and stamina advantages don’t activate in short or chaotic matchups.",
+      "Train stamina and guts early, pivot to Speed and Power once she enters career mode finals."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Raise Wit to 450 and boost Guts and stamina recovery for safe pacing.",
+      "Corner-Heavy Layouts – Equip Pace Chaser Corners ◎ and Corner Recovery ○ to retain tempo.",
+      "PvP Finals – Use Subdued Pace Chasers and Slipstream early, then prepare her burst combo chain.",
+      "Seasonal Career Tracks – Leverage Spring Runner (if available) and Straight Descent for layout compatibility.",
+      "Back-to-Back Race Weeks – Use recovery skills and pacing passives to avoid fatigue errors."
+    ],
+    "summary": "- Rice Shower is a strategic Pace-style turf runner who thrives in endurance-based Long formats\n- Build Stamina and Guts first, then layer Speed and Power to stabilize her late burst chain\n- Use pacing disruption tools like Subdued Pace Chasers and stamina recovery to suppress rivals\n- Avoid Sprint and Dirt formats — her strengths scale with pacing, not raw acceleration\n- Her final skill combo flourishes in wide straight finishes and clean lane setups"
+  }
+},
+{
+  "name": "Super Creek",
+  "imageUrl": "https://i.imgur.com/merOkj6.png",
+  "style": "Pace",
+  "baseStats": {
+    "Speed": "G+ (65/1200)",
+    "Stamina": "F (100/1200)",
+    "Power": "G+ (71/1200)",
+    "Guts": "F (100/1200)",
+    "Wit": "G+ (89/1200)"
+  },
+  "skills": [
+    "Clear Heart – Super Creek’s unique skill. Activates on the final corner when she’s behind the lead pack but still in contention, delivering a sharp acceleration and mental fortitude boost. In career mode, this is her graceful surge under pressure — strong on Long turf tracks where opponents are burning out.",
+    
+    "Corner Recovery ○ – Slight stamina recovery during corners. Allows her to preserve endurance on technical layouts. Especially effective on Long-distance formats like Kyoto 2400m with four corners.",
+    
+    "Deep Breaths – Slight stamina recovery during early mid-race. Keeps Creek relaxed and steady before entering her power chain. Great in PvP finals with rough pacing.",
+    
+    "Disorient – Slightly disrupts pacing of runners ahead late-race. Creates openings for Creek’s final burst and counters strong Front-style rivals.",
+    
+    "Pace Chaser Corners ◎ – Moderately improves cornering speed for Pace-style runners. Helps Creek maintain speed during corner-heavy sequences and sets up Clear Heart activation.",
+    
+    "Hydrate – Mid-race stamina restoration. Combines well with Corner Recovery ○ for back-to-back career weeks or PvP fatigue mitigation.",
+    
+    "Slipstream – Slightly reduces wind resistance when tucked behind a runner. Conserves stamina during prep phases and keeps Creek poised for reversals.",
+    
+    "Encroaching Shadow – Grants acceleration during final stretch. Strong pairing with Clear Heart for finish reliability in crowded fields.",
+    
+    "Straightaway Spurt – Adds minor acceleration on final straight. Backup tool in case Clear Heart misfires or the field positioning disrupts logic.",
+    
+    "Chaser's Instinct – Slight speed boost when trailing multiple rivals. Activates early and helps Creek maintain middle-pack rhythm before her final chain begins."
+  ],
+  "trackRatings": {
+    "Turf": "A",
+    "Dirt": "G"
+  },
+  "distanceRatings": {
+    "Sprint": "G",
+    "Mile": "G",
+    "Medium": "A",
+    "Long": "A"
+  },
+  "styleRatings": {
+    "Front": "D",
+    "Pace": "A",
+    "Late": "B",
+    "End": "G"
+  },
+  "growthRate": {
+    "Speed": "0%",
+    "Stamina": "10%",
+    "Power": "0%",
+    "Guts": "0%",
+    "Wit": "20%"
+  },
+  "buildGuide": {
+    "statPriorities": [
+      "Stamina – Key stat with 10% growth. Push to 650+ for Long formats. Corner Recovery and Deep Breaths allow aggressive pacing without full stamina investment.",
+      "Wit – Train to 500+ with 20% growth. Critical for activation flow and skill reliability. Helps avoid pacing errors during reversal surges.",
+      "Speed – Aim for 950–1000 with support cards. Required for Clean Heart and Encroaching Shadow to trigger meaningfully.",
+      "Power – Build to 400–450 for lane control and corner flow, especially on technical turf tracks.",
+      "Guts – Optional unless stacking recovery for PvP loops. Her high base allows good fatigue resistance with minimal training."
+    ],
+    "supportCards": [
+      "2x Stamina Cards – Super Creek and Rice Shower for deep endurance foundations.",
+      "2x Wit Cards – Fine Motion and Smart Falcon to maximize activation consistency.",
+      "1x Speed Card – Special Week or Oguri Cap to boost final phase performance.",
+      "1x Power Card – Mihono Bourbon or Narita Taishin for transition pacing and lane control."
+    ],
+    "legacyRecommendations": [
+      "Symboli Rudolf – Supports Clean Heart chaining and pack positioning logic.",
+      "Mejiro McQueen – Adds stamina synergy and corner control inheritance.",
+      "Grass Wonder – Buffs reversal logic and finesse timing for Long races."
+    ],
+    "strategyTips": [
+      "Use Super Creek on Medium/Long turf formats with heavy corner layouts. Avoid Sprint/Mile — she lacks burst flow for short formats.",
+      "Stack pacing recovery early: Hydrate + Deep Breaths → Chaser’s Instinct → Corner Recovery ○ → Clear Heart.",
+      "Position her 4th–7th mid-race. Too far behind will disrupt her activation windows. Too far forward risks skill misfires.",
+      "Train Wit heavily to ensure late-race logic works against reversal-heavy rivals.",
+      "Pair with endurance supports in PvP for stamina matchups and tempo control."
+    ],
+    "scenarioTips": [
+      "Rainy Turf – Push Wit to 550+ and stack stamina passives to offset pacing disruption.",
+      "Corner-Dense Tracks – Use Pace Chaser Corners ◎ + Corner Recovery ○ for optimal tempo.",
+      "PvP Finals – Equip Slipstream and Disorient to create late-lane openings against Front runners.",
+      "Back-to-Back Race Weeks – Use recovery skills to skip rest cycles and preserve training flow.",
+      "Bracket Strategy – Place Creek in lane 4–6 for pack access and clean surge setups."
+    ],
+    "summary": "- Super Creek thrives in stamina-safe reversal builds across Long turf formats\n- Train Wit and Stamina hard early, pivot to Speed and Power for late-phase surge logic\n- Her finishing chain relies on positioning and skill flow more than raw stats\n- Avoid Sprint/Dirt formats — they undercut her strategic pacing\n- Best paired with recovery supports, tactical disruptors, and skill stabilizers"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
